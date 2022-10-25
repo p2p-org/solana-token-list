@@ -26,7 +26,7 @@ async function fixLogo(token) {
 
 	// download if not exists
 	const fileExistAsync = promisify(fs.existsSync);
-	if (!(await fileExistAsync(downloadedSVGFile))) {
+	if (!(await fileExistAsync(downloadedSVGFile)) || !token.startsWith(deprecatedEndpoint)) {
 		console.log("SVG file not exists, downloading...");
 		await download(token.logoURI, downloadedSVGFile);
 	}
