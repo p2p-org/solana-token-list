@@ -1,0 +1,184 @@
+{
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
+      "symbol": "xUSD",
+      "name": "Synthetic USD",
+      "decimals": 6,
+      "logoURI": "https://www.synthetify.io/icons/xusd.svg",
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
+      "symbol": "EV1",
+      "name": "EveryOne Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/everyonecoin",
+        "twitter": "https://twitter.com/everyonecoin",
+        "website": "https://everyonecoin.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8",
+      "symbol": "ANGLE",
+      "name": "ANGLE (Portal)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8/logo.svg",
+      "tags": [
+        "ethereum",
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+        "assetContract": "https://etherscan.io/address/0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "coingeckoId": "angle-protocol",
+        "description": "Angle is the first decentralized, capital efficient and over-collateralized stablecoin protocol",
+        "discord": "https://discord.gg/z3kCpTaKMh",
+        "twitter": "https://twitter.com/AngleProtocol",
+        "website": "https://www.angle.money"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G6nZYEvhwFxxnp1KZr1v9igXtipuB5zL6oDGNMRZqF3q",
+      "symbol": "BAD",
+      "name": "EA Bad",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G6nZYEvhwFxxnp1KZr1v9igXtipuB5zL6oDGNMRZqF3q/EABadlogo.PNG",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EABadtoken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CvG3gtKYJtKRzEUgMeb42xnd8HDjESgLtyJqQ2kuLncp",
+      "symbol": "waUniDAIETH_v1",
+      "name": "Aave Interest bearing UniDAIETH (Wormhole v1)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CvG3gtKYJtKRzEUgMeb42xnd8HDjESgLtyJqQ2kuLncp/logo.svg",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0xBbBb7F2aC04484F7F04A2C2C16f20479791BbB44",
+        "assetContract": "https://etherscan.io/address/0xBbBb7F2aC04484F7F04A2C2C16f20479791BbB44",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G",
+      "symbol": "waUniUSDCETH_v1",
+      "name": "Aave Interest bearing UniUSDCETH (Wormhole v1)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G/logo.svg",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5",
+        "assetContract": "https://etherscan.io/address/0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7LUdsedi7qpTJGnFpZo6mWqVtKKpccr9XrQGxJ2xUDPT",
+      "symbol": "waUniSETHETH_v1",
+      "name": "Aave Interest bearing UniSETHETH (Wormhole v1)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7LUdsedi7qpTJGnFpZo6mWqVtKKpccr9XrQGxJ2xUDPT/logo.svg",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0x84BBcaB430717ff832c3904fa6515f97fc63C76F",
+        "assetContract": "https://etherscan.io/address/0x84BBcaB430717ff832c3904fa6515f97fc63C76F",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "6nyiZ7uHKPHRhZa6nw2eBS4njxStM6kmEUr6uLFhJz9Z",
+      "symbol": "PCS",
+      "name": "Precious Jewelry",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6nyiZ7uHKPHRhZa6nw2eBS4njxStM6kmEUr6uLFhJz9Z/pcs_ico.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://precious.capital/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6nZ4YgDjENVa7y9P8YBxnfgR8CkTxzuQo82w1Bv1tmZE",
+      "symbol": "Waifu",
+      "name": "Vkryp",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Vkryp/logo/main/logo.png",
+      "tags": [
+        "Vkryp-token",
+        "Waifu-token",
+        "VkrypArmy-coin",
+        "NFT-coin",
+        "Twitch-token",
+        "Whitelist-token",
+        "Metaverse-token",
+        "Souvenir-token"
+      ],
+      "extensions": {
+        "description": "Made by Carlos Verbelen for Valentina Krypt  Metaverse of Vkryp ",
+        "discord": "https://www.youtube.com/channel/UCyc2NPlfZEwKZnqwFpjUZpA?view_as=subscriber",
+        "facebook": "https://www.facebook.com/ValentinaKryp",
+        "instagram": "https://www.instagram.com/vkryp",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "medium": "https://joinentre.com/?referredBy=el0nmusk",
+        "twitter": "https://twitter.com/VKryp",
+        "website": "https://linktr.ee/Zues369"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "yUNZUz7N5gfvdfgPaz3ddSVcKD3UbgHQYoSWitTt6jL",
+      "symbol": "y-USN-4Pool",
+      "name": "Yield Mercurial LP Token (USN-4Pool)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yUNZUz7N5gfvdfgPaz3ddSVcKD3UbgHQYoSWitTt6jL/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 3
+  }
+}
