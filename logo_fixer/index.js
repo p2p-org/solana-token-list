@@ -25,7 +25,7 @@ function ensureDirectoryExistence(filePath) {
 
 // fix logo of a token
 async function fixLogo(token) {
-	const newEndpoint = "https://raw.githubusercontent.com/p2p-org/token-list";
+	const newEndpoint = "https://raw.githubusercontent.com/p2p-org/solana-token-list";
 	const deprecatedEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
 
 	// copy token
