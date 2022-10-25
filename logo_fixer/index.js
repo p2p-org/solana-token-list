@@ -14,17 +14,24 @@ async function fixLogo(token) {
 
 	// if logo is not svg return
 	if (path.extname(token.logoURI.toLowerCase()) !== ".svg") {
-		console.log("Logo is not svg, skiped");
 		updatedToken.logoURI = updatedToken.logoURI.replace(deprecatedEndpoint, newEndpoint);
 		return updatedToken;
 	}
+	
+	console.log("===== Processing logo with url " + token.logoURI);
 
 	// download svg
-	const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
-	await download(token.logoURI, downloadFolder);
+	const downloadFolder = `${__dirname}/../assets` + "/" + token.address;
+	const downloadedSVGFile = downloadFolder + "/logo.svg";
+
+	// download if not exists
+	const fileExistAsync = promisify(fs.existsSync);
+	if (!(await fileExistAsync(downloadedSVGFile))) {
+		console.log("SVG file not exists, downloading...");
+		await download(token.logoURI, downloadedSVGFile);
+	}
 
 	// convert to png
-	const downloadedSVGFile = downloadFolder + "/logo.svg";
 	const convertedPNGFile = downloadFolder + "/logo.png";
 
 	let info = await sharp(downloadedSVGFile).png().toFile(convertedPNGFile);
@@ -49,11 +56,10 @@ async function fixLogo(token) {
 
 // executing function
 (async () => {
-	let sampleDir = '../src/tokens/solana.tokenlist.json';
+	let sampleDir = '../src/tokens/sample.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
-		console.log("===== Processing logo with url " + tokens[i].logoURI);
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
     		if (updatedJSON) {
