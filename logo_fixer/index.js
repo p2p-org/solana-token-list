@@ -69,7 +69,7 @@ async function fixLogo(token) {
 	// });
 
 	// return updated token
-	let updatedURI = newEndpoint + "/main/assets/mainnet/31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8/logo.png"
+	let updatedURI = newEndpoint + "/main/assets/mainnet/" + token.address + "/logo.png"
 	token.logoURI = updatedURI;
 	return updatedToken
 }
