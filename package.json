@@ -38,7 +38,8 @@
     "reset-hard": "git clean -dfx && git reset --hard && npm i",
     "prepare-release": "run-s reset-hard test cov:check doc:html version doc:publish",
     "purge:cdn": "run-s purge:cdn:*",
-    "purge:cdn:solana": "npx req https://purge.jsdelivr.net/gh/solana-labs/token-list@main/src/tokens/solana.tokenlist.json"
+    "purge:cdn:solana": "npx req https://purge.jsdelivr.net/gh/solana-labs/token-list@main/src/tokens/solana.tokenlist.json",
+    "fix-logo": "node logo_fixer"
   },
   "engines": {
     "node": ">=10"
@@ -105,6 +106,8 @@
     ]
   },
   "dependencies": {
-    "cross-fetch": "3.0.6"
+    "cross-fetch": "3.0.6",
+    "download": "^8.0.0",
+    "sharp": "^0.31.1"
   }
 }
