@@ -2,13 +2,10 @@ const download = require('download');
 const sample = require('../src/tokens/sample.json');
 const path = require('path');
 const sharp = require('sharp');
+const fs = require('fs');
 
 // fix logo of a token
 async function fixLogo(token) {
-
-	// alert
-	console.log("===== Processing logo with url " + token.logoURI);
-
 	// if logo is not svg return
 	if (path.extname(token.logoURI.toLowerCase()) !== ".svg") {
 		console.log("Logo is not svg, skiped");
@@ -27,9 +24,18 @@ async function fixLogo(token) {
 	const convertedPNGFile = downloadFolder + "/logo.png";
 
 	let info = await sharp(downloadedSVGFile).png().toFile(convertedPNGFile);
-	console.log(info);
+	console.log("Successfully converted svg file to png!");
 
 	// remove svg
+	console.log("Removing svg...");
+	fs.unlink(downloadedSVGFile, (error) => {
+		// if any error
+		if (error) {
+			console.error("Error removing svg: " + downloadedSVGFile);
+			console.error(error);
+			return;
+		}
+	});
 
 	// return updated token
 	return updatedToken
@@ -39,9 +45,16 @@ async function fixLogo(token) {
 (async () => {
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
-    	let updatedJSON = await fixLogo(tokens[i]);
-    	if (updatedJSON) {
-    		// console.log(updatedJSON);
+		console.log("===== Processing logo with url " + tokens[i].logoURI);
+    	try {
+    		let updatedJSON = await fixLogo(tokens[i]);
+
+    		if (updatedJSON) {
+    			// console.log(updatedJSON);
+    		}
+
+    	} catch(error) {
+    		console.error(error);
     	}
     }
 })().catch(e => {
