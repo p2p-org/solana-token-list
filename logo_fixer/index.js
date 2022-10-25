@@ -83,7 +83,7 @@ async function fixLogo(token) {
     	console.log("===== Processing " + (i + 1) + " of " + tokens.length);
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
-    		if (updatedJSON && updatedJSON !== tokens[i]) {
+    		if (updatedJSON) {
     			tokens[i] = updatedJSON;
     			sample.tokens = tokens;
 			    const writeFileAsync = promisify(fs.writeFile);
