@@ -3,11 +3,30 @@ const path = require('path');
 const sharp = require('sharp');
 const fs = require('fs');
 const { promisify } = require('util');
+const Promise = require("bluebird");
+
+// fs promises
+function existsAsync(path) {
+  return new Promise(function(resolve, reject){
+    fs.exists(path, function(exists){
+      resolve(exists);
+    })
+  })
+}
+
+function ensureDirectoryExistence(filePath) {
+  var dirname = path.dirname(filePath);
+  if (fs.existsSync(dirname)) {
+    return true;
+  }
+  ensureDirectoryExistence(dirname);
+  fs.mkdirSync(dirname);
+}
 
 // fix logo of a token
 async function fixLogo(token) {
 	const newEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
-	const deprecatedEndpoint = "https://raw.githubusercontent.com/solana-labs/token-list";
+	const deprecatedEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
 
 	// copy token
 	let updatedToken = token;
@@ -21,14 +40,15 @@ async function fixLogo(token) {
 	console.log("===== Processing logo with url " + token.logoURI);
 
 	// download svg
-	const downloadFolder = `${__dirname}/../assets` + "/" + token.address;
+	const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
 	const downloadedSVGFile = downloadFolder + "/logo.svg";
 
 	// download if not exists
-	const fileExistAsync = promisify(fs.existsSync);
-	if (!(await fileExistAsync(downloadedSVGFile)) || !token.startsWith(deprecatedEndpoint)) {
+	const isFileExists = await existsAsync(downloadedSVGFile);
+	if (!isFileExists || !token.logoURI.startsWith(deprecatedEndpoint)) {
 		console.log("SVG file not exists, downloading...");
-		await download(token.logoURI, downloadedSVGFile);
+		ensureDirectoryExistence(downloadedSVGFile);
+		fs.writeFileSync(downloadedSVGFile, await download(token.logoURI));
 	}
 
 	// convert to png
@@ -56,10 +76,11 @@ async function fixLogo(token) {
 
 // executing function
 (async () => {
-	let sampleDir = '../src/tokens/sample.json';
+	let sampleDir = '../src/tokens/solana.tokenlist.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
+    	console.log("===== Processing " + (i + 1) + " of " + tokens.length);
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
     		if (updatedJSON) {
