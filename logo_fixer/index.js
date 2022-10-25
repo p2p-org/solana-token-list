@@ -25,7 +25,7 @@ function ensureDirectoryExistence(filePath) {
 
 // fix logo of a token
 async function fixLogo(token) {
-	const newEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
+	const newEndpoint = "https://raw.githubusercontent.com/p2p-org/token-list";
 	const deprecatedEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
 
 	// copy token
@@ -83,7 +83,7 @@ async function fixLogo(token) {
     	console.log("===== Processing " + (i + 1) + " of " + tokens.length);
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
-    		if (updatedJSON) {
+    		if (updatedJSON && updatedJSON !== tokens[i]) {
     			tokens[i] = updatedJSON;
     			sample.tokens = tokens;
 			    const writeFileAsync = promisify(fs.writeFile);
