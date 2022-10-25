@@ -49,7 +49,8 @@ async function fixLogo(token) {
 
 // executing function
 (async () => {
-	let sample = require('../src/tokens/sample.json');
+	let sampleDir = '../src/tokens/sample.json';
+	let sample = require(sampleDir);
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
 		console.log("===== Processing logo with url " + tokens[i].logoURI);
@@ -65,7 +66,7 @@ async function fixLogo(token) {
 
     sample.tokens = tokens;
     const writeFileAsync = promisify(fs.writeFile);
-    await writeFileAsync(`${__dirname}/../src/tokens/sample-result.json`, JSON.stringify(sample, null, 2));
+    await writeFileAsync(`${__dirname}/${sampleDir}`, JSON.stringify(sample, null, 2));
 })().catch(e => {
     // Deal with the fact the chain failed
     console.log(e);
