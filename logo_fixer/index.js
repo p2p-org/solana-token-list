@@ -1,19 +1,23 @@
 const download = require('download');
-const sample = require('../src/tokens/sample.json');
 const path = require('path');
 const sharp = require('sharp');
 const fs = require('fs');
+const { promisify } = require('util');
 
 // fix logo of a token
 async function fixLogo(token) {
-	// if logo is not svg return
-	if (path.extname(token.logoURI.toLowerCase()) !== ".svg") {
-		console.log("Logo is not svg, skiped");
-		return;
-	} 
+	const newEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
+	const deprecatedEndpoint = "https://raw.githubusercontent.com/solana-labs/token-list";
 
 	// copy token
 	let updatedToken = token;
+
+	// if logo is not svg return
+	if (path.extname(token.logoURI.toLowerCase()) !== ".svg") {
+		console.log("Logo is not svg, skiped");
+		updatedToken.logoURI = updatedToken.logoURI.replace(deprecatedEndpoint, newEndpoint);
+		return updatedToken;
+	}
 
 	// download svg
 	const downloadFolder = `${__dirname}/../assets` + "/" + token.address;
@@ -38,25 +42,30 @@ async function fixLogo(token) {
 	});
 
 	// return updated token
+	let updatedURI = newEndpoint + "/main/assets/mainnet/31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8/logo.png"
+	token.logoURI = updatedURI;
 	return updatedToken
 }
 
 // executing function
 (async () => {
+	let sample = require('../src/tokens/sample.json');
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
 		console.log("===== Processing logo with url " + tokens[i].logoURI);
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
-
     		if (updatedJSON) {
-    			// console.log(updatedJSON);
+    			tokens[i] = updatedJSON;
     		}
-
     	} catch(error) {
     		console.error(error);
     	}
     }
+
+    sample.tokens = tokens;
+    const writeFileAsync = promisify(fs.writeFile);
+    await writeFileAsync(`${__dirname}/../src/tokens/sample-result.json`, JSON.stringify(sample, null, 2));
 })().catch(e => {
     // Deal with the fact the chain failed
     console.log(e);
