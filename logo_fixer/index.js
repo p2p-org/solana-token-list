@@ -20,7 +20,7 @@ async function fixLogo(token) {
 	}
 
 	// download svg
-	const downloadFolder = `${__dirname}/../assets` + "/" + token.address;
+	const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
 	await download(token.logoURI, downloadFolder);
 
 	// convert to png
@@ -31,15 +31,15 @@ async function fixLogo(token) {
 	console.log("Successfully converted svg file to png!");
 
 	// remove svg
-	console.log("Removing svg...");
-	fs.unlink(downloadedSVGFile, (error) => {
-		// if any error
-		if (error) {
-			console.error("Error removing svg: " + downloadedSVGFile);
-			console.error(error);
-			return;
-		}
-	});
+	// console.log("Removing svg...");
+	// fs.unlink(downloadedSVGFile, (error) => {
+	// 	// if any error
+	// 	if (error) {
+	// 		console.error("Error removing svg: " + downloadedSVGFile);
+	// 		console.error(error);
+	// 		return;
+	// 	}
+	// });
 
 	// return updated token
 	let updatedURI = newEndpoint + "/main/assets/mainnet/31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8/logo.png"
@@ -49,7 +49,7 @@ async function fixLogo(token) {
 
 // executing function
 (async () => {
-	let sampleDir = '../src/tokens/sample.json';
+	let sampleDir = '../src/tokens/solana.tokenlist.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
     for (var i = 0; i < tokens.length; i++) {
@@ -58,15 +58,14 @@ async function fixLogo(token) {
     		let updatedJSON = await fixLogo(tokens[i]);
     		if (updatedJSON) {
     			tokens[i] = updatedJSON;
+    			sample.tokens = tokens;
+			    const writeFileAsync = promisify(fs.writeFile);
+			    await writeFileAsync(`${__dirname}/${sampleDir}`, JSON.stringify(sample, null, 2));
     		}
     	} catch(error) {
     		console.error(error);
     	}
-    }
-
-    sample.tokens = tokens;
-    const writeFileAsync = promisify(fs.writeFile);
-    await writeFileAsync(`${__dirname}/${sampleDir}`, JSON.stringify(sample, null, 2));
+    }    
 })().catch(e => {
     // Deal with the fact the chain failed
     console.log(e);
