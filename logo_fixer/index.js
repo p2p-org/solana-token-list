@@ -101,8 +101,8 @@ async function fixLogo(token) {
 	let sampleDir = '../src/tokens/solana.tokenlist.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
-    for (var i = 0; i < tokens.length; i++) {
-    	console.log("===== Processing " + (i + 1) + " of " + tokens.length);
+    for (var i = 7920; i < tokens.length; i++) {
+    	console.log("===== Processing " + (i + 1) + " of " + tokens.length + " (" + ((i + 1) * 100 /tokens.length) + "%)");
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
     		if (updatedJSON) {
