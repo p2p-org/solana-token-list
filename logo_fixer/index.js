@@ -26,14 +26,36 @@ function ensureDirectoryExistence(filePath) {
 // fix logo of a token
 async function fixLogo(token) {
 	const newEndpoint = "https://raw.githubusercontent.com/p2p-org/solana-token-list";
-	const deprecatedEndpoint = "https://raw.githubusercontent.com/bigearsenal/solana-token-list";
 
 	// copy token
 	let updatedToken = token;
 
-	// if logo is not svg return
+	// if logo is not svg
 	if (path.extname(token.logoURI.toLowerCase()) !== ".svg") {
-		updatedToken.logoURI = updatedToken.logoURI.replace(deprecatedEndpoint, newEndpoint);
+
+		// assert
+		if (token.logoURI.startsWith(newEndpoint)) {
+			return updatedToken;
+		}
+
+		// if logo is png, download and store it
+		if (path.extname(token.logoURI.toLowerCase()) === ".png") {
+			const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
+			const downloadedPNGFile = downloadFolder + "/logo.png";
+
+			// download if not exists
+			const isFileExists = await existsAsync(downloadedPNGFile);
+			if (!isFileExists) {
+				console.log("PNG file not exists, downloading...");
+				ensureDirectoryExistence(downloadedPNGFile);
+				fs.writeFileSync(downloadedPNGFile, await download(token.logoURI));
+			}
+
+			// return updated token
+			let updatedURI = newEndpoint + "/main/assets/mainnet/" + token.address + "/logo.png"
+			token.logoURI = updatedURI;
+			return updatedToken
+		}
 		return updatedToken;
 	}
 	
@@ -45,7 +67,7 @@ async function fixLogo(token) {
 
 	// download if not exists
 	const isFileExists = await existsAsync(downloadedSVGFile);
-	if (!isFileExists || !token.logoURI.startsWith(deprecatedEndpoint)) {
+	if (!isFileExists) {
 		console.log("SVG file not exists, downloading...");
 		ensureDirectoryExistence(downloadedSVGFile);
 		fs.writeFileSync(downloadedSVGFile, await download(token.logoURI));
@@ -79,8 +101,8 @@ async function fixLogo(token) {
 	let sampleDir = '../src/tokens/solana.tokenlist.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
-    for (var i = 0; i < tokens.length; i++) {
-    	console.log("===== Processing " + (i + 1) + " of " + tokens.length);
+    for (var i = 13296; i < tokens.length; i++) {
+    	console.log("===== Processing " + (i + 1) + " of " + tokens.length + " (" + ((i + 1) * 100 /tokens.length) + "%)");
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
     		if (updatedJSON) {
