@@ -1,0 +1,2651 @@
+[
+  {
+    "address": "FHfba3ov5P3RjaiLVgh8FTv4oirxQDoVXuoUUDvHuXax",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "USD Coin (Portal from Avalanche)",
+    "symbol": "USDCav",
+    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+    "tags": [
+      "wormhole"
+    ]
+  },
+  {
+    "address": "Kz1csQA91WUGcQ2TB3o5kdGmWmMGp8eJcDEyHzNDVCX",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Tether USD (Portal from Avalanche)",
+    "symbol": "USDTav",
+    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+    "tags": [
+      "wormhole"
+    ]
+  },
+  {
+    "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Graphite",
+    "symbol": "GP",
+    "logoURI": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Hades",
+    "symbol": "HADES",
+    "logoURI": "https://arweave.net/dvKu5BgpSo6j-iGzQOyVXYZ8OU7iyfhHNpkkJ_8qkkQ",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "hades"
+    }
+  },
+  {
+    "address": "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Laine Stake",
+    "symbol": "laineSOL",
+    "logoURI": "https://shdw-drive.genesysgo.net/4DUkKJB966oMk8zq57KkAUxqg9HpuWtZ3BKobhmYph39/laineSOL.webp",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "laine-stake"
+    }
+  },
+  {
+    "address": "ENvD2Y49D6LQwKTtcxnKBmEMmSYJPWMxXhNsAo18jxNc",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Sollama Utils",
+    "symbol": "SOLLAMA",
+    "logoURI": "https://arweave.net/Men-VZrDkTGrSNB9V9YGa9l4IgO1JnU7ZHHQkRJ61A4",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "sollama-utilities"
+    }
+  },
+  {
+    "address": "CvB1ztJvpYQPvdPBePtRzjL4aQidjydtUz61NWgcgQtP",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Epics Token",
+    "symbol": "EPCT",
+    "logoURI": "https://bafybeibal7k2hz6frznyjbl4qcnzcwlsuzxmquatrsaly6ttmuppgmdvwe.ipfs.dweb.link/EpicsCoin.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "epics-token"
+    }
+  },
+  {
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "logoURI": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "jito-staked-sol"
+    }
+  },
+  {
+    "address": "HezGWsxSVMqEZy7HJf7TtXzQRLiDruYsheYWqoUVnWQo",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "HolyGrails",
+    "symbol": "HOLY",
+    "logoURI": "https://arweave.net/TDvr4xgh3VxmHG8GglxruoSwm41wkYOLPF7EBrhBiBY",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "holygrails-io"
+    }
+  },
+  {
+    "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Cogent SOL",
+    "symbol": "cgntSOL",
+    "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "cogent-sol"
+    }
+  },
+  {
+    "address": "LMDAmLNduiDmSiMxgae1gW7ubArfEGdAfTpKohqE5gn",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "lambda.markets",
+    "symbol": "LMDA",
+    "logoURI": "https://arweave.net/6y2eY-KEaBu4KbZLJwLCTQQUXhWVPKxjgdyW69DwI0o",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "lambda-markets"
+    }
+  },
+  {
+    "address": "FfpyoV365c7iR8QQg5NHGCXQfahbqzY67B3wpzXkiLXr",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Boo",
+    "symbol": "BOO",
+    "logoURI": "https://shdw-drive.genesysgo.net/DJ3QdUErhdbyHGfynHm3rsmWsyEEKMdEmffs6i4jZXE9/SQUARE_BOO_logo.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "boo"
+    }
+  },
+  {
+    "address": "kiGenopAScF8VF31Zbtx2Hg8qA5ArGqvnVtXb83sotc",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Genopets Ki",
+    "symbol": "KI",
+    "logoURI": "https://arweave.net/WfPR8w5dEoerG_bI3S2o2_nuSfWY3p8M4YbQ6ijd1cQ?ext=png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "genopet-ki"
+    }
+  },
+  {
+    "address": "H1G6sZ1WDoMmMCFqBKAbg9gkQPCo1sKQtaJWz9dHmqZr",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "SHIBONK",
+    "symbol": "SBONK",
+    "logoURI": "https://raw.githubusercontent.com/Sperlo64/SHIBONK/main/bonklogo2.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "shibonk-311f81df-a4ea-4f31-9e61-df0af8211bd7"
+    }
+  },
+  {
+    "address": "Doggoyb1uHFJGFdHhJf8FKEBUMv58qo98CisWgeD7Ftk",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "DOGGO",
+    "symbol": "DOGGO",
+    "logoURI": "https://shdw-drive.genesysgo.net/BBwXjBB6LtWGjKW5GveUSau5z9KZv2CK5AWmb7FCDF6K/doggies_coin.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "doggo"
+    }
+  },
+  {
+    "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "HONEY",
+    "symbol": "HONEY",
+    "logoURI": "https://hivemapper-marketing-public.s3.us-west-2.amazonaws.com/Hivemapper_HONEY_token.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "hivemapper"
+    }
+  },
+  {
+    "address": "xALGoH1zUfRmpCriy94qbfoMXHtK6NDnMKzT4Xdvgms",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Wrapped ALGO",
+    "symbol": "xALGO",
+    "logoURI": "https://arweave.net/zZizaipiM5GvJ5upulPUzg9VW9bui0VaMCY6k1QyHgs",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "wrapped-algo"
+    }
+  },
+  {
+    "address": "2KE2UNJKB6RGgb78DxJbi2HXSfCs1EocHj4FDMZPr4HA",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Slow Protocol",
+    "symbol": "SLOW",
+    "logoURI": "https://t3wsqd23o7n5d2pjgvspqafxi3jcznjfrdgwkh6acmgf3zjpnsgq.arweave.net/nu0oD1t329Hp6TVk-AC3RtIstSWIzWUfwBMMXeUvbI0",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "8wbKU77rWVmpfejfXxGVo5H47fyRQHkpWxZnqUT1Vjd3",
+    "chainId": 101,
+    "decimals": 3,
+    "name": "$BAGS",
+    "symbol": "$BAGS",
+    "logoURI": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "4D7kEovLBEY3VQUzJUQjXyGR8fAZwQWSxEcsP5Y9nZ6S",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "BIU COIN",
+    "symbol": "BIU",
+    "logoURI": "https://biucoin.club/img/cat.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "biu-coin"
+    }
+  },
+  {
+    "address": "DxRbkqB2cEqa4rnXJwq4z3GuksgpL2U27PWBw8QBcNv2",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Trippin' Ape Tribe Floor Index",
+    "symbol": "TAPES",
+    "logoURI": "https://i.imgur.com/iFgvQva.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "GDzfemoYR5GkbK4YupYpyq3E8Du9fSfKXxKDpkdrqGjs",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Klausen Art",
+    "symbol": "KART",
+    "logoURI": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "BzjsQpgKjxZedFawUV9GZMExhr7VbvsasQv12v2PVxSt",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "BAT",
+    "symbol": "BATT",
+    "logoURI": "https://batt.finance/static/media/logo.6284c2cd472e1bacd3e5c370044f6a0e.svg",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "FMG9mNVazePvGtAY1WESUmY9j3LvhVzmkQsaucwRy8EB",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Cattoshi",
+    "symbol": "COSHI",
+    "logoURI": "https://arweave.net/k5GPPYbAhUhJBc36Cjk_iVqhQfA63Kn01A3TMv65P04",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "B5Fvzd2RL5ctrmFsvDafXiNGbBqbxapiryJo8JfoSEcA",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "KITTI TOKEN",
+    "symbol": "KITTI",
+    "logoURI": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "kitti"
+    }
+  },
+  {
+    "address": "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "dabloons",
+    "symbol": "dabloons",
+    "logoURI": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "GPyzPHuFFGvN4yWWixt6TYUtDG49gfMdFFi2iniTmCkh",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "CHILI",
+    "symbol": "CHILI",
+    "logoURI": "https://iili.io/H5O87JS.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "chili"
+    }
+  },
+  {
+    "address": "6y8W5YwAuzostqrS4YDJufBvksosfSi47Pd8U4A5vrBC",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Whole Earth Coin",
+    "symbol": "WEC",
+    "logoURI": "https://ipfs.moralis.io:2053/ipfs/QmStqd3JLmEA9bfcUzt2CWF2iPzt7tgPmnkgou7JxauUkz",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "whole-earth-coin"
+    }
+  },
+  {
+    "address": "3uejHm24sWmniGA5m4j4S1DVuGqzYBR5DJpevND4mivq",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "IP3",
+    "symbol": "IP3",
+    "logoURI": "https://cripco.com/token/image/ip3?ext=png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "cripco"
+    }
+  },
+  {
+    "address": "AUT1gfMZw37wMMQqAxk89nfpjZpEEf2XSoBUd8V5ydnS",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Ave University Token",
+    "symbol": "AUT",
+    "logoURI": "https://arweave.net/T-R84Zo32rDOA5Wo66T8jAlqcyjD7Folt1oeCfjlizU",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "avenue-university-token"
+    }
+  },
+  {
+    "address": "5yxNbU8DgYJZNi3mPD9rs4XLh9ckXrhPjJ5VCujUWg5H",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Fronk",
+    "symbol": "FRONK",
+    "logoURI": "https://shdw-drive.genesysgo.net/8tfWzweVe7MAfi8qwiKFnzLq6wuLT7WAPMoQC7DH47Fq/fronk.gif",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "fronk"
+    }
+  },
+  {
+    "address": "8FktFPUvi73Ywf7ZivsbuQFyQCqZUwvqSQ51hNvRhR26",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "Milk",
+    "symbol": "$MILK",
+    "logoURI": "https://shdw-drive.genesysgo.net/Ck7ByKk3NZfC9EFTNiGBrLkvquKGyDL7KLk3h1rdW2P4/image.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "A12XggFFk3b5GCd6ZYxuQ55cQbxarHL4h7Jxs3GQcdC3",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Froggo",
+    "symbol": "Froggo",
+    "logoURI": "https://froggotoken.com/token_logo.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "GtLBsmS6Z4FC9gmnCFS2ZzCKmb9vYL3kELnjVmxHurnh",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "ENG Token",
+    "symbol": "ENG",
+    "logoURI": "https://www.arweave.net/N_pDeYTYERWexWo2E3-mzZhqMtqdcqA_ZktPva4ImnY?ext=png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "F9CpWoyeBJfoRB8f2pBe2ZNPbPsEE76mWZWme3StsvHK",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "logoURI": "https://shdw-drive.genesysgo.net/8XiSN28HJqb9czfsBYXsTkLtf4wgAupLpozEaUyA419K/pepecoin.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "pepesol"
+    }
+  },
+  {
+    "address": "kNkT1RDnexWqYP3EYGyWv5ZtazB8CfgGAfJtv9AQ3kz",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Kineko",
+    "symbol": "KNK",
+    "logoURI": "https://www.arweave.net/u7prAs3T9UHwykErAXDfX306yAxFU08PpgvN819K_so?ext=png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "kineko-knk"
+    }
+  },
+  {
+    "address": "PhiLR4JDZB9z92rYT5xBXKCxmq4pGB1LYjtybii7aiS",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Phil Overdrive | Youtube",
+    "symbol": "POVT",
+    "logoURI": "https://raw.githubusercontent.com/PhilOverdrive/Token/main/Logo.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "FbUy1NubUtCfoif7TAr6wAtJVJFapYUVWxRGmUwvKNyS",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "𝝠ndre's Fleet Share",
+    "symbol": "AFSeX",
+    "logoURI": "https://arweave.net/l5d0WrtUcpUEqwknqjvxlo2QyGryLL3SDsRbigT9HA0",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "9AGm8DWXiB4PwvH1V2r31ChsTE2f2TDySvDbfJmfaMBq",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "DLP8 Coin",
+    "symbol": "DLP8",
+    "logoURI": "https://arweave.net/T2RURwcLfB2xSjrfksI7R2SL3fKyZoqlTPiLCE3fsBo",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "DeoP2swMNa9d4SGcQkR82j4RYYeNhDjcTCwyzEhKwfAf",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Deo",
+    "symbol": "DEO",
+    "logoURI": "https://arweave.net/RuNPo7tAR05f_7g_Yz36NMyVKHAFrOXjIEKPtOZx2Qc",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "player-2"
+    }
+  },
+  {
+    "address": "2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Clack",
+    "symbol": "Clack",
+    "logoURI": "https://arweave.net/vfvrSK2eG2zdf5ZZRiT5whGjyT-zJffiqDn1GwulgS4",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "FYUkUybywqUUyrUwiAezbvhTp2DUgx1eg8tQNiKkXqJ9",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Magic Crystal Coin",
+    "symbol": "MC",
+    "logoURI": "https://arweave.net/Nwami1xs2ciMI7mUcawKMkUTKf_UUrLjYvIqUSL1ShI",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "tap-fantasy-mc"
+    }
+  },
+  {
+    "address": "Boxch1343xWQWbahVBPhYHuYLXNHnWYHG6QbuqfNugQ1",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Utility Token Boxch",
+    "symbol": "BOXCH",
+    "logoURI": "https://shdw-drive.genesysgo.net/3Ho5JF5NUy5erW89ZGhZUF6WRmiDtciCw1uRw1z5RAoE/logo.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "boxch"
+    }
+  },
+  {
+    "address": "DSXWF79VQ3RzFBB67WeNfCzfzAQq5X6m97zi85bq1TRx",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Catalina Whale Mixer Floor Index",
+    "symbol": "WHALES",
+    "logoURI": "https://bafkreicadecx3rbffm6tqtgtc67bi6r2xiibtmawcejje7pfu7id2zxwwy.ipfs.dweb.link/",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "catalina-whales-index"
+    }
+  },
+  {
+    "address": "GqiReKpoAHQCnziNA1koxcttCkBD38W6Pyd45FoiBXQm",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Primates Floor Index",
+    "symbol": "PRIMATES",
+    "logoURI": "https://bafybeifnx4apyushfc3i2tg5wx2xgudcfxgisd2sven2mhxixpghuo2jeu.ipfs.dweb.link/",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "F9BqFoWRML4Red6YPiL3xJBP7u9g8f61AKJMEYDB3wBR",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Athens",
+    "symbol": "ATH",
+    "logoURI": "https://arweave.net/GNYZdT1icjRPLbRoivdtSU9_GqBM7LF6khrpV9qCBtM",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "CejQBkdRPN8Jyod2jVUYTfHwU9hPHvM3rD9prvQiffDU",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "TAP Coin",
+    "symbol": "TAP",
+    "logoURI": "https://arweave.net/gHPUUFpbtWac5AnYtV10nGXa3VBgu0PgBiA7gDHJkJE",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "CRYPTi2V87Tu6aLc9gSwXM1wSLc6rjZh3TGC4GDRCecq",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Crypt",
+    "symbol": "$CRYPT",
+    "logoURI": "https://aql3kfuqpqpkdchvrzuwyx6pdnjw6p6pualx7kie5erqalavewgq.arweave.net/BBe1FpB8HqGI9Y5pbF_PG1NvP8-gF3-pBOkjACwVJY0?ext=png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "secret-skellies-society"
+    }
+  },
+  {
+    "address": "HDVR9Edy2o8uRdf5xFUDSGVLo556UjAaNR9BrwZ8QeMJ",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Flowers",
+    "symbol": "FLWR",
+    "logoURI": "https://arweave.net/3brG4EGxdYt30nQMI-T_wkaOXl0xJQfcERzNFJpzTV0",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "sol-flowers"
+    }
+  },
+  {
+    "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "Interest Bearing Bitcoin (Portal)",
+    "symbol": "ibBTC",
+    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ibBTC_wh.png",
+    "tags": [
+      "wormhole"
+    ]
+  },
+  {
+    "address": "LPFiNAybMobY5oHfYVdy9jPozFBGKpPiEGoobK2xCe3",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "LP Finance DAO",
+    "symbol": "LPFi",
+    "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/LPFiToken.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "lp-finance"
+    }
+  },
+  {
+    "address": "xLPFiPmWve5rUnAYcHZSZWjwgyqEdcV6dDzoBJRtNw9",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "xLP Finance",
+    "symbol": "xLPFi",
+    "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/xLPFi.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "xlp-finance"
+    }
+  },
+  {
+    "address": "CRMaDAzKCWYbhUfsKYA8448vaA1qUzCETd7gNBDzQ1ks",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Crema",
+    "symbol": "CRM",
+    "logoURI": "https://www.arweave.net/E6II9rfGbg3zzLugMjtbPGf5sM-JKKky2iXGA5SoYjQ?ext=png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "zSOL",
+    "symbol": "zSOL",
+    "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "zsol"
+    }
+  },
+  {
+    "address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Rafkróna",
+    "symbol": "ISKT",
+    "logoURI": "https://raw.githubusercontent.com/rafmyntasjodur/iskt-metadata/main/logo.png",
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "address": "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Dual DAO Token",
+    "symbol": "DUAL",
+    "logoURI": "https://www.dual.finance/images/token-logos/dual.png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "dual-finance"
+    }
+  },
+  {
+    "address": "MarcoPaG4dV4qit3ZPGPFm4qt4KKNBKvAsm2rPGNF72",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Gobi",
+    "symbol": "GOBI",
+    "logoURI": "https://arweave.net/uscHuZUd7GsiPIJz2zS_et6_boil-DhtF0zJdrX8hM8?ext=png",
+    "tags": [
+      "community",
+      "solana-fm"
+    ],
+    "extensions": {
+      "coingeckoId": "gobi-labs"
+    }
+  },
+  {
+    "address": "CLAsHPfTPpsXmzZzdexdEuKeRzZrWjZFRHQEPu2kSgWM",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Clash",
+    "symbol": "CLH",
+    "logoURI": "https://arweave.net/01kvYWgLv5Vpi6I3kMFmTXqs1TDk7s_cL8Jjl6e5oGM",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "clash"
+    }
+  },
+  {
+    "address": "DF8vhyo51Nu3XSKRAMmFPm2WFUkHhxwGVp3SoR77gAdz",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Good Vibrations",
+    "symbol": "GOODVIBE",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://arweave.net/NYe5NlpoOItQsIU7LHVRwQPcDZ3JYUNbBf72Aq4JGTY",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3RCVCywxSs8pDRU1hw8fo7xTUCpNuX86w8cKTM6fgWBY",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Famous Fox Federation",
+    "symbol": "FOXES",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeiglipep6klutky4atw7jhf7lknpgzbfqlmqmamqh5s6lwih6uopma.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "57Pu2vR7QzXQJUjyPmiFCTtqVsTi1wy6NReWSLah7Pic",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "TombStoned High Society",
+    "symbol": "TSHS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/tombstoned_pfp_1645169267186.gif",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3tbZLBjNeZcBmVQjJBiDC6qmsurNt6wxrF3xuFE1RHaU",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Bet3",
+    "symbol": "BET3",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/bet3_pfp_1662994493142.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Access Protocol",
+    "symbol": "ACS",
+    "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "access-protocol"
+    }
+  },
+  {
+    "address": "iJF17JCu78E51eAgwtCwvgULHh2ZqCeRrcFP7wgcc6w",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "I-JFI-Q4",
+    "symbol": "I-JFI-Q4",
+    "logoURI": "https://www.arweave.net/KBzPwLR-OUkR9O_bbGEfIc0L3U49m1qFjzOeLCSKZU0?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FwrfWVbDq2X7sb9tEFyVVExxFyMEDUP4Ta2PkYyeCGoZ",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Cets on Creck Floor Index",
+    "symbol": "CETS",
+    "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cats_on_crack_pfp_1644850873089.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "HqFG17V7wNfEDV3k5K2AuY3rmM5n2np4rhbGV21hp4as",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Just Ape",
+    "symbol": "JAPE",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeicwsd4if6yxgunl4x4czy3kp2i7fzwppvbkaj4l3touqhjw4z2wfa.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "A1ApexoMVQf3TJ9NGjZzGTkp83nyUF5UsLZVbRu4o6Q3",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "sharx by Sharky.fi",
+    "symbol": "SHARX",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/sharx_pfp_1664561059322.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BQXDYWZdtXqeLXFWYeRhLrGh8gcTmDQZQc92ENMaXSry",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Doge Capital",
+    "symbol": "DCAP",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/5e07dff05059715ef2478b80cfee0c99/41bbd847",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "C5z8HSR19v3uWaD9UrPzsZ7kgWMnJxp55b54i5uuSNWy",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "The Atrivians",
+    "symbol": "ATRIVIANS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/atrivians_pfp_1663012736300.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Ga1mVubYLHYiat1BZKN1BQftT6w58tgX7chJfBpzp6pF",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "y00ts",
+    "symbol": "Y00TS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreidc5co72clgqor54gpugde6tr4otrubjfqanj4vx4ivjwxnhqgaai.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CJKrnvgB5PugtXXMooJq8N31VRtzMowusi9n2SQJEJMh",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "KikiVerse",
+    "symbol": "KIKI",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeib4lrvntpzwr6eyhzkn4llzp4tbjxngsj5ur7fenx5j6i7o7c6g5q.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3tFcVwc25sXE2WALbfR9GgMoaH2kTkieHvVtSzu98UNo",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Launchlabs",
+    "symbol": "LAUNCHLAB",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachments/50b7a48b85ba698d2279ccaa6b2c6717/42f95bf4/qwe.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2u96qr1PBu1MoW4hDJVaZXNppJSuPnJLxbVJ8UnRho72",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Pilots",
+    "symbol": "PILOTS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreifx7fd32whlosropuzrx3253xflalbksp4geknglkrlyeqy7lf67m.ipfs.nftstorage.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "qBo8aDLgHaic3byqjdRWLWiNhVWaxMYXUtDKFdirZVz",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Nomads",
+    "symbol": "NOMADS",
+    "logoURI": "https://pbs.twimg.com/profile_images/1600315961210552320/p7LfS-Tt_400x400.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "AYtg18TFRQs1mCQ29zWY3aSwxwTcW1uTdZ65dL3WiBQu",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Claynosaurz",
+    "symbol": "CLAY",
+    "logoURI": "https://i.imgur.com/dd9tpCS.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6fr6Dwy77PvYaMc6AFYkoM3YYcAd69hmnRPVxdCebSxn",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Immortals",
+    "symbol": "IMRTL",
+    "logoURI": "https://pbs.twimg.com/profile_images/1602577769359151111/bW5dZD_h_400x400.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7FYvphuZtRxB7BZd8PZ65yZmEEuWYYdxiHubthyd38BE",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "LILY",
+    "symbol": "LILY",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreihwrpyr52wax3i5drzi5pg4v2wrgylpwi54im7qb7nzz7tpdsmmzm.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5Y7KkN5h3aGK5BWgQd3VHuKYENxzdch2inkrxJUywkVy",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "DeGods",
+    "symbol": "DEGODS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreicndlrqersl63a7fpk6zzw73lsklj5bwsidk74n4solbcyz2g3viq.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "jJF1SrhzpyqYawE9ruSVKrHjfxjaG5TUMFB5vnXUWVm",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Jungle-Staked JFI",
+    "symbol": "J-JFI",
+    "logoURI": "https://www.arweave.net/aIBvYbeCHiVXWUAnfx81fyRMY-OYgQfJtuYhLu3fZnM?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FTuNqhptJCo4qDcDxj8kNNyAakGL24Z18Zxb4dnCeTCK",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Trogg",
+    "symbol": "TROGG",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeibupbcdyvqopn2pzrxhlais7wzt4brc7tv7fcritq3ruo7gttd2ye.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Bzkc8h8jDrSZbWZXzuQS6om8RbgJRmxo99dYE7ShyWV4",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "UKIYO",
+    "symbol": "UKIYO",
+    "logoURI": "https://pbs.twimg.com/profile_images/1544356839701241857/-tuFVvmk_400x400.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "C3bwM3HpEPzNsY5DBfZEcXywxyko6mpRAVFNXMzB1Mou",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "P-Gang",
+    "symbol": "PGANG",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/pgang_pfp_1663711276449.gif",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "SoLW9muuNQmEAoBws7CWfYQnXRXMVEG12cQhy6LE2Zf",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Amulet Staked Sol (amtSol)",
+    "symbol": "amtSol",
+    "logoURI": "https://arweave.net/Ge3yd9dtBrUiMhowuk6Pv6-ie-vryJUFN6e6XrEugj8?ext=png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "amulet-staked-sol"
+    }
+  },
+  {
+    "address": "79HSB5Zd4feNc8xCwhhaCyJAwPuXrMKeJcbg2tKgDn8P",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Rifters",
+    "symbol": "RIFTERS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreienoqmgoktuanavekzevj6bfo4pqn352vqj6semiargi75g4fhenu.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FrG7YxkifmLq5oiULBMh4zBnNyoniNMWXatLfceJiFTX",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Jikan Studios",
+    "symbol": "JIKAN",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreihav5rr3p3rphpex6gzieb6rf5qorgipg5z44w3qs7672cryq346u.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "bQ2HDYdcyBAp4p5hgUdk3BtP97VoUZEkc1ubbBKCkdZ",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Nuked Apes",
+    "symbol": "NUKED",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/6524e76ab243c8e8812470a69b0da611/9fecbb6d",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3CaVSKdi6myXtCSoqH1qwQHGLTeenYx8oCVKuyts1pey",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Alder Mages",
+    "symbol": "MAGES",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/aldermages_pfp_1654539613984.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4v3UTV9jibkhPfHi5amevropw6vFKVWo7BmxwQzwEwq6",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Ovols",
+    "symbol": "OVOL",
+    "logoURI": "https://s52lhdnekgzezod5ob2xlfpzhicodm6esmbkvlbzoe4xskamvvnq.arweave.net/l3SzjaRRsky4fXB1dZX5OgThs8STAqqsOXE5eSgMrVs",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "ovols-floor-index"
+    }
+  },
+  {
+    "address": "G6BWiMU2uPZmE2A3Ng3oG9qxc5JoZbFbgEpqZss93M4K",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Solswipe",
+    "symbol": "SWIPE",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/solswipe_pfp_1660584726131.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8SPqbVEzeLnCuWVvukE2mHGKP4X86g3D7d1x86LXdkVX",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "Fortune",
+    "symbol": "TUNE",
+    "logoURI": "https://shdw-drive.genesysgo.net/5iQG56y69jfkDG5vmzYAA4G8H5du3UxgL4vHQyThgt7s/image.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "GENZexWRRGNS2Ko5rEgGG1snRXpaa3CDDGYnhTSmE3kd",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "GENZ Token",
+    "symbol": "GENZ",
+    "logoURI": "https://www.arweave.net/XVrUkXF5ZCC40IZNTqjs9PegUDYyqEqEd8LyfST-8Wk?ext=png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "genz-token"
+    }
+  },
+  {
+    "address": "25yPcyqSpSv8T2JWyoKKRiU622Sr7LoMk9S3FmuBFt8S",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "GMers",
+    "symbol": "GMERS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/gmers_pfp_1662860639809.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7BT9CJGkVryLH5jRdBzUAqa72Mz9z6sABwBnx7a6ttiY",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Honk coin",
+    "symbol": "honk",
+    "logoURI": "https://arweave.net/ppQQB-NFUMkcL6Qhhf6eLk3ksKvAZd9MSdXM_44d9Rs",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "H57XM1294uWU6jVZEXnqmBgcxzmwc8qwajYES3PHkYGU",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "The Pixel Dudes",
+    "symbol": "PIXELDUDE",
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%2F44vsczQhVRDmqZfKgoQGgyzdvKp5AAqAhuUNiGvw7e5Y%2FCollections%2FdeBY8kTlYQ9ihPVrMoep%2Fcover?alt=media&token=88d962d1-ba24-448f-a7da-a1f9d2fb8db6",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "GJkcpmCwqQKeeMGubyx5iBHMZSR393GU5cmxkv3rEcMo",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "The Forgottens",
+    "symbol": "TENS",
+    "logoURI": "https://arweave.net/BV_xipRlMmr_OYeRUCymjtAYzu_-GfVlaHcTxjootEs",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "DPrZ3nCpT3xbFdW4rYmBK6jp6XnmPgauoXEqZF6MJ2ch",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Cetus",
+    "symbol": "CETUS",
+    "logoURI": "https://shdw-drive.genesysgo.net/4LwxbqMNQJ4yZq5PmDT8wAEizeB6CR66K3YjQzhU4ESr/cetus.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "tDcw216fFJcHrzQB179QVw5aSqVrCjJuASKHnc72wWJ",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Great Goats",
+    "symbol": "GGOATS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/b3bc1733c8b49865d70b79160acef873/86af3e32",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5",
+    "chainId": 101,
+    "decimals": 4,
+    "name": "GM",
+    "symbol": "GM",
+    "logoURI": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6qj7pc1gtyziS11W5SQXbQesUuFUB48C5wCymd8PPvEy",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "The Stoned Frogs",
+    "symbol": "STONEF",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreidssu7hdver4dtscwk3ny74l4k2uq7cluzcwznzja4ptlvdsdsyfa.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CcTe61PTM2A9P2AW1sennPhvvviEHhNpqX1VJ2jccGCf",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "UMF2",
+    "symbol": "UMF2",
+    "logoURI": "https://shdw-drive.genesysgo.net/9CNfZDgvCYByLu6hvGSf3JcP2LhyfmFHFi4DZvciQCZh/Group@8x.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "dwnkQmmfLjkYZjTkpQk6wP6aeoBFCVNxQLtEkWeVGjC",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Baby Ape Social Club",
+    "symbol": "BASC",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/fa393956b6723bd9f8a92fbb294ce965/39caef8b",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "EwpgtEqWzAAWQ2ZfwjTNtgQzYGGkrXV7Mh3wWVVuxM3M",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "A2M",
+    "symbol": "A2M",
+    "logoURI": "https://i.imgur.com/z2GbxlJ.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2FbCdry1bfjnKEoyLju3VAbK5b6Kzn4ug7G1aQnxPgCY",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "De Goddesses ",
+    "symbol": "DGODESS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/degoddess_pfp_1664574730178.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BNTX5V5xeCmKB18HRMZmF7fFrhrs8LvD3KREfczdwBpr",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Bounty-X",
+    "symbol": "$BNTX",
+    "logoURI": "https://www.arweave.net/HAVJ_s17gSxecBbtkVopLcVxAt_GuhnZzSotOMLFIwY?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FCUXUxLzPyDSPNM3JGquTnzErbEyXrZfDUC8KpwaCUu4",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Jungle Lab Coin",
+    "symbol": "JLCoin",
+    "logoURI": "https://shdw-drive.genesysgo.net/MohhPLVKP2A1B46Q4v48qWQYNb2sjoG6P1PbzLNEwq4/252.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2jQGYyj79wR7tLrpyxw2bEtpCgrkK3QMpy6HD9npjXcU",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Soltama",
+    "symbol": "Stama",
+    "logoURI": "https://arweave.net/sZnqyl18H4TT9IMl54wTGhEi9JvRr64U9mlj3W6kfgM",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4eKSMiEAY5GaWtNxaxLRfHAREfmbkhAAWJZzeEyfkX58",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "microOaks",
+    "symbol": "MOAKS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://nftstorage.link/ipfs/bafybeidz5ulgmfammtbc2or5elppjkinmjhvxo6nbxfk2mzrwz2reu6h5m/1075.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BKuRYzc9CoJen8VeVsqEeQAHei4oHNXDyW4wb3ZbNP5z",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Banana",
+    "symbol": "BANANA",
+    "logoURI": "https://shdw-drive.genesysgo.net/5JQH2UzvxqtNoGBkCY8a58nbX7AYwYtvp77hcJcsEeAa/Logo---Circle---Dark.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "LbwHsNT5CBAyzvims3gdcgMZ4CXYfYKvZGrcerXtVfW",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Neo Hunters",
+    "symbol": "NEOHUNT",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/neo_hunters_pfp_1671017667387.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FzoYRdg3QfT3jEK7R3yExmoD1jxvUsJWyifTBWVKg2wJ",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "STAX",
+    "symbol": "STX",
+    "logoURI": "https://www.arweave.net/a_wowYyGJzEo4_NLWx4RPgMsJRODWCYyEolTdvOzM54?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FC5gUwqJm7rfnXnDTcCSTmPLgBpQsrCzW9hpY4Uz8F8z",
+    "chainId": 101,
+    "decimals": 4,
+    "name": "Monki",
+    "symbol": "Monki",
+    "logoURI": "https://arweave.net/iwVHUSarkglZUxedYME-Y2QyXlqN0YgdWTRVYoFB32Y",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Ba6pbKXsMPtMVCsUvEK96MC8UMQjhokfLSHdT38QNWyR",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Grim Syndicate",
+    "symbol": "GRIM",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/a1cff3a26aee69bf2ab0999d9da348b8/45ae349e",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6bv7myU4BPsZDaSoqzrgvtZZ7H3Nv3oJxeabktL7z1RR",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "NAVATAR",
+    "symbol": "NAVI",
+    "logoURI": "https://bafkreibnlmcfga4pqarrtrdvxueop5onbubnx736xffm3gxzhz62n56kxq.ipfs.nftstorage.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7N9gKoaocMAmr8JFNtVbj74i1oYsSKJAi5Y6sp4EaU1Z",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Anthros",
+    "symbol": "ANTHROS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreigg2pwr5qvkj57smcgsstjg7xocd5wiiqcgjacbgbah7kuxv2ws6i.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5zuc14SdL6jxJ8cqN4MpWgKF5VNDEDtzvkYpfUUEgGfn",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "PURE",
+    "symbol": "PURE",
+    "logoURI": "https://arweave.net/J3yZgcrJX0BeyBFKlvXxdyt3RMyoDxl-_EYJkt0scyU",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "JC6WKyEFqPMzcSQy9unvLvz7UPYxmhXDXkfdELKAJMbJ",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Monkez",
+    "symbol": "Monkez",
+    "logoURI": "https://shdw-drive.genesysgo.net/EUA6dXz31XNAdZhY6kP3Rt6YvUUet6FhP9vwhQXwsizQ/image.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "EQQK5Pk2tXoxaJy29ghTSpT1D3p5mfaxYeVi83F1wzcy",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Astrals",
+    "symbol": "ASTRALS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/astrals_pfp_1650330464227.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "PAYkXE7Z1tDEdjJyvRU2BnJjptT3d4Ncaz5WKY8fz84",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Payer",
+    "symbol": "PAY",
+    "logoURI": "https://shdw-drive.genesysgo.net/85Fx9zuCRF1Wx3J6SxL5LUstwhzh6Xem7PKVGUuz4ZW5/Frame 22.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BXXB2LxRk2uwKQih5ysoVQ3oVdeNCfGuEHAvBZGtK1Bf",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Cyberlinx",
+    "symbol": "CYBERLINX",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/cyberlinxnft_pfp_1661792397527.gif",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2jdSBCZqh6DHMgAce76298r6iwzNKJjBXMVWEEcTQcgT",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Nova Network",
+    "symbol": "Nova",
+    "logoURI": "https://arweave.net/KXP7rYPgDVnPBFyuDnNp8Y3kVCZEue5RN-UXNSwxA00",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CYuXNHURE8cF3rQc1687DZnmsWx9ATNG3mZPFmryu22S",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "PEPESOLANA",
+    "symbol": "PEPE",
+    "logoURI": "https://shdw-drive.genesysgo.net/85Mup8SQSvcTXsykzNTAtypV2v3zYrYu9eFTRvUUwmXK/PicsArt_01-11-07-removebg-preview.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "iSoLXhjuJJz1pRPd6MkwhGn6Q8qCybZzK9F77dDGK2C",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "I-SOL-Q3",
+    "symbol": "I-SOL-Q3",
+    "logoURI": "https://www.arweave.net/Y1kWTXdM6DbKeaxJ1XZBiuWOgJ1lffONFEfn1nG2uPY?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Baj2ueGuSwdKhdCsJrf7xvGBbUSpmpySYewQLbsiNs2Y",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "smol",
+    "symbol": "smol",
+    "logoURI": "https://arweave.net/s9eJV8qhlpsU8qVf97UJ171iWtjB0AFZlVyk0tbzHBg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "GD4T6vk4gtmvNPB5FRfYzNfNVpSAhEJhWnuevBVfXTG",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Axxolotl",
+    "symbol": "AXXO",
+    "logoURI": "https://shdw-drive.genesysgo.net/Dpe29JaeKuR1VC6jNCJgJbUvSLN6w23xpwQVwVaswRB4/axxo.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8X6DcnTY5YsqoYqMU6mNHA4GE3uiJW2FZFsgGisQFk9q",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "FEET",
+    "symbol": "FEET",
+    "logoURI": "https://gateway.ipfscdn.io/ipfs/QmVqJxVBB6xUgKeTXDR83RL2WCeKEWeFRokwVvP2GuLzxH/Feet%20(1).png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "bozoPerkdbhUYXNtePV56wP8wYqhZmMzTTtkAXbeKeM",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Bozo",
+    "symbol": "BOZO",
+    "logoURI": "https://bozotoken.com/token_logo.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "AxWD4A2mVXBx1U6uARmFcgs2EVaxzgCQpAgioEpVZ4dd",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Samoyed GPT Coin",
+    "symbol": "SAMOGPT",
+    "logoURI": "https://shdw-drive.genesysgo.net/2LQwfUZJDoWEYQKLbKbgVZm8AMXX41zHDjUtTxHy4gXn/SAMOGPT.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2LZA864dgLpKAjXhvQn54ZmgtaQR44sVqyVZJ8MsjqnC",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "MORTYBEAR",
+    "symbol": "MTB",
+    "logoURI": "https://bafkreielrghoxfxiyvsyd2jytnsbiw6bbub4pxzaticzpn5jpg3wlbprce.ipfs.nftstorage.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "HkSiK3rrAf4JHXN7Cf1j7GsLofX9jo8962xabT1qiff1",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Satori",
+    "symbol": "SATORI",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreieavkjl5rchszvydi7asd3e7jzms5cw6ggixjfto6euuxd3ido7ui.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4nKW1yHuxS4t6M8AnMZ9s1RQC8HUhsLmeQk3Zv7j8gew",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Cyborg Apes",
+    "symbol": "CYAPES",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeidiysrigkc5nq5bdplj5blad2bnosf5lgb2yndjhje2ygqqxovj7q.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "F9aJDzsebUBSDZPcfZ4suTB7wWfgCUVK32DVwzT83YS2",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Sonona",
+    "symbol": "SONA",
+    "logoURI": "https://i.postimg.cc/L5wv36Sn/sonona-low-sol.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7MvF6sQKo78amqJzWNQBRn9X2jTm5VBwtycDYEpuLJq8",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "NEXT",
+    "symbol": "NEXT",
+    "logoURI": "https://arweave.net/tjhQ3XooLK_KZZCEElPpAlfVPZI5XP5gEqpjFphNZ3g",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "DfCqzB3mV3LuF2FWZ1GyXer4U5X118g8oUBExeUqzPss",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Poglana",
+    "symbol": "POG",
+    "logoURI": "https://shdw-drive.genesysgo.net/A4JSQm5iYpDQdxqF3waaWYdbFxAaKUgVmXVqGM9jo1ap/poglana-logo.png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "poglana"
+    }
+  },
+  {
+    "address": "6wktcKujaFRKV9Sz455nHUNz34dEWht1gqKzR5KQ9Ljb",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Soosh",
+    "symbol": "SOOSH",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeig5il3cq3c7wojc323d7kiex3pyoyxcxtufh4m7pvixarvcjiiqga.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8cZRQGpPyuVZYSkB9EedArhCUVrazXY4W7KNukm2CWZP",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Alpaca",
+    "symbol": "Alpaca",
+    "logoURI": "https://shdw-drive.genesysgo.net/B6F8E3FMPsN1md56uT1fvnfLhpH2CaNdzKBJ11B6L5gG/Alpaca.PNG",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6PfoZY4iYBzpx3wHqgjBigNuGrN8tq7Bgp5DfiU6GpDJ",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Sloki Classic",
+    "symbol": "SLC",
+    "logoURI": "https://shdw-drive.genesysgo.net/AyqPm4q1qHEkgEEFG6fgT7V5tU91ZiSc7foR2zxjEr5H/sloki classic.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "gGcKtxkyFzKrc1TFuUNhWvMdStGpDQxLLfsnjAi4VWD",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "SPACE",
+    "symbol": "SPACE",
+    "logoURI": "https://raw.githubusercontent.com/BreezyBabieMint/space/main/space.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "EeXQwXffMVCsrDX9TZaFAmEnEV428y5XjyVH7qAbQFFR",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "SOBOSU",
+    "symbol": "SBOSU",
+    "logoURI": "https://arweave.net/7B-470kH2Fk5ZzCVguKDm566Zp6J8bxYRut_Wb4092U",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3yPvfudQ88ECG9U5Sz2MPmd9C8tzPQG3Gjm1Ts69LWVV",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Suteki",
+    "symbol": "SUTEKI",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/bb5f40a7c3d9feb5c27e4810e83e1f74/1f770b7f",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "mSoLKr8mcyYPVwa9L1aabeWcDjo9WQUK4eqkDkHu2CP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "microSOL",
+    "symbol": "microSOL",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "D56ymJNSeNjzdsjT1gmpeW8a8KosH6nt8MWmJb9JCYLj",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Guerra",
+    "symbol": "GDOT",
+    "logoURI": "https://www.arweave.net/Xi3T35WSwMhYdpLD_4vBfNdp3jKRzmhljpGMsdV3X4s?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "GgJpekwuUZxBejtNJGiWP7srWLQKtiGRsrL5qMXzgd1a",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Eggs",
+    "symbol": "Eggs",
+    "logoURI": "https://arweave.net/d4cuHyX9HOKvVaxWfTx1-odvl8Mt3sQDuiIf6ulTVZk",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "J8taaG2MEBQruGWE4Hhzkrahb1nMAeSZUYBs5cmzST9k",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "LUV",
+    "symbol": "$LUV",
+    "logoURI": "https://www.arweave.net/9swZaTu7Vjwb8apy-7eDVPZOtU2l1zArjnxxafbptKo?ext=jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "ADFBeL7niKCmvCHMZWcNzipbVXcPCgFFGG4K7NW5FfeW",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Astrodoge",
+    "symbol": "ADOGE",
+    "logoURI": "https://raw.githubusercontent.com/SFMSOL/SFM-ICON/main/IMG_0632.PNG",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CsvWXThjNVDXx1gnLB3Nezp1rKKb85s1z2CZPdBf8uk9",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Soge",
+    "symbol": "Soge",
+    "logoURI": "https://i.ibb.co/sQGNjTh/logo2.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "EpZwaTh536LDNsBnsS985SUri2xoNg4dE6ufiMgCvaZ2",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Homeowners Association (Parcl)",
+    "symbol": "PRCLHOA",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/3bac2a201fa493c7682039559e0a394f/4977d91a",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "352NB9VnRPTcsjRDQ2ntKrA3FWUsvxkF7rY55x96PUVj",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "SOLCAINE",
+    "symbol": "HPIUM",
+    "logoURI": "https://arweave.net/Amz0HzFtSbQH1FHQY8_xidw2b_IMxiakytuV4B-cYtw",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "HjR8jtT9emnBxJnXUrjTA3MdQ2nkqMufcdVAHyBhiMoS",
+    "chainId": 101,
+    "decimals": 4,
+    "name": "ALEROMISIAN YOHALAM",
+    "symbol": "ALY",
+    "logoURI": "https://arweave.net/_CzS5tSEz7wc-VXBdwdJjo8ZFDHxr3PgS1U2y3gIqzQ",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FY64DpoX5z8oMTYy7LnDwEVx16dbJbTWrLs8BBo78aJv",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "BRITARIA",
+    "symbol": "DREAD",
+    "logoURI": "https://arweave.net/XZSyt_CIUM8DzlEi8fKsJhMw2e8p3bG97OneCu19qRs",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9Z7cE5EoyHjFQAL2X8AMcR4N1zjWLpmYP3WUDoSXviDn",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Yaku X",
+    "symbol": "YAKUX",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeigaq3x3iz3v24qjnv26ql7c7fstll6reolqbxkpncpbpa23bovgva.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "71YpUdv723KFiqkQY6QNj2gKomLdphsUbNKQ2xns6V3o",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Odes",
+    "symbol": "ODES",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/odes_pfp_1664218158492.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "AgnHzGspNu7F3nFM4izuPt5g7m1URjVaTaFNgvqSXcjC",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Nectar",
+    "symbol": "NCTR",
+    "logoURI": "https://www.arweave.net/8imTwET4YerNLKAL8nEmI6ONDlMXBHZ96YC7TeFTI1s?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "RNCoMmGbjMKg6aJRfpoosnjuP7Xp2MLrYn1bvdr5usE",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "ResNet",
+    "symbol": "RNC",
+    "logoURI": "https://arweave.net/kGdYpxRWY-L8lCscaqvnj3iz3eV04SyLjyku8GcohZg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "wjnmr8FNs2ywrMpFHRqynKFYQE6Lb7PzVd4EbmEuRru",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Clout",
+    "symbol": "CLOUT",
+    "logoURI": "https://arweave.net/TkafqsxhmVGSwNt6GdaqnX3NB9NArDSu5t9Fe7opzLM",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU",
+    "chainId": 101,
+    "decimals": 0,
+    "name": "BEAR",
+    "symbol": "BEAR",
+    "logoURI": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8gpGWLyaT4azTRGxuspanjjVFE6iyhui8iso96Cs6CKT",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "PUDLE",
+    "symbol": "PUDLE",
+    "logoURI": "https://arweave.net/tixjsZL9p4B94fks4w1e8hRlk-HaVGlyL8i3G35sjEg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4MsWmTdKbAXtwHgwFsm9MkcN6YhAWbn1dcCR4tUchCuA",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Fearless Bulls Club",
+    "symbol": "FBC",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachments/3ce24c8c8c76abb1a78024d91933da04/3739095a/vvvvv.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "HonpKYnWW3C2CKddkHQVyfnL5cYG8QU49B6NqXz9kJpW",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Honey",
+    "symbol": "HON",
+    "logoURI": "https://shdw-drive.genesysgo.net/3BUHffyLbhUy5tpZHWVrMAmitfcfksuZ8XgmhjTKCu6t/logo-honey.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Apso1HewdyW1EbdgbFpYbKdGgybRcgcfYt6RoY5jik4A",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Apso Token",
+    "symbol": "APSO",
+    "logoURI": "https://shdw-drive.genesysgo.net/3e8yPBxiD7duwe4qx4N3x3WMEdSLGhT4pgyqQpsXRow9/Apso1HewdyW1EbdgbFpYbKdGgybRcgcfYt6RoY5jik4A.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Eph48CXtxBZBpHQJYSgxBoa4utERMZNMR4AekFkM188E",
+    "chainId": 101,
+    "decimals": 0,
+    "name": "Buff Bunny Token",
+    "symbol": "BUFF",
+    "logoURI": "https://bafybeihksegsdqn55h2eqj6tjr3fi34ghdbpuurjt2v3nmachsqcgzbnqm.ipfs.w3s.link/buffbunnytoken.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3XJe9kn4xqKpX94DB5oRz6LvLv3zfqVL59SQs7A19mcP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "$DOODLE",
+    "symbol": "DD",
+    "logoURI": "https://arweave.net/3YcDdIsV9rJXviKUWKCf214YlWNaQb7TsZ7N5ATtTh4",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9LdHzY1CZFP9SYgGSzQe1j6BXqtfU5akFYPqnvrYik56",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "O5O",
+    "symbol": "O5O",
+    "logoURI": "https://raw.githubusercontent.com/O5O-xyz/o5o/main/o5o_main_logo.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CSNNLADmJDBsKWFLKFY1buomz4iA3xutp9F16Zja1kY3",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Simmple Labs",
+    "symbol": "SIMMPLE",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://shdw-drive.genesysgo.net/Dm7fNBd9ufYeXae3r5D6Yijx2wQnvq6puV9moMFRKHLE/placeholder.gif",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3f7wfg9yHLtGKvy75MmqsVT1ueTFoqyySQbusrX1YAQ4",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Pixel by Pixel",
+    "symbol": "PbP",
+    "logoURI": "https://www.arweave.net/oM5esNEOkJrw6rElkNeg8I_ayWnf_ScNC8P9cgqNsms?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "WTFunN4Fx4tuW18NG47dDRHsH5Hh27tGmipGXmzTq7c",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "WTF",
+    "symbol": "WTF",
+    "logoURI": "https://shdw-drive.genesysgo.net/CB3bEE3ReHEuJdQ7nFVhJVKsdiDTi4LczkEkjWeZgqGd/pepe-wtf.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "F72cwD2GZxCmHWf4nSRVkaW56BdgLuUMYoTCttzYXfL5",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Bonkat",
+    "symbol": "BKT",
+    "logoURI": "https://arweave.net/0r7IuJ7-Ex7XFCBDNU75EdQuYLv2YdCdqMS9spQb4ls",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7d28DxhobAqo1Pj88DJh9QDXFfe4d3iVKsKSF22wiK8n",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Seek and Destroy",
+    "symbol": "SND",
+    "logoURI": "https://i.ibb.co/JHxbmhz/cross-hair-arget.webp",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Hhxyfv3Td3YmHhHfaY3Vy6zR77F8KFPkXQ1yjcG3hwX",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "CUJO",
+    "symbol": "CUJO",
+    "logoURI": "https://arweave.net/AiMX5vmSFyNjbHKy42JW8AK-guL_B-3YZFTZmePhPn4",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "DcU8TnGxcaZhhswvaLmZ15TsKf24By6wmkLEjsdzoit",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "MeMe Coin",
+    "symbol": "MeMe",
+    "logoURI": "https://arweave.net/KQc4oOZQS3goxoux42X_0a8TfOFg6HcZcDRntASqrPs",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "997SHeyaSBdancshLwyMbzvv3C2iuEXXxFVkZjxXKRbg",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Urban Tek Cgi",
+    "symbol": "UTC",
+    "logoURI": "https://shdw-drive.genesysgo.net/GncqDdUW3iS91RoWg3YjgauhdM4Ffvc59BXiFngDnddy/image.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "AeYPHFqxhzPubNaTVqTq53xSbTmrxr11qAZP5gKcfJX9",
+    "chainId": 101,
+    "decimals": 1,
+    "name": "Shiba Hero",
+    "symbol": "SHIBE",
+    "logoURI": "https://arweave.net/Yro0ACmgi-LK26bg9WyYu_BuMn04aKEln6udvD_qFac",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "ER9JcBh2FWs3NPx4t9EjaiiCoSJJGyZpF5B1Rohda7eh",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "TALENT",
+    "symbol": "TAL",
+    "logoURI": "https://www.arweave.net/9U2ha-mrU8bYAVqoPYCf94fKPgZnh5YC0jbSqwfrQsY?ext=png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Froots",
+    "symbol": "FROOTS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/frootsnft_pfp_1657757320025.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9swmeY7ttp6bRWfccJcNmCYAp5pHSnUXuSkydvdRjVVD",
+    "chainId": 101,
+    "decimals": 1,
+    "name": "Solgoodman",
+    "symbol": "SAUL",
+    "logoURI": "https://arweave.net/4Ap7ip-W8U9Y_C05h_ek8ULkR-lu93ffC-MTsmSEay8",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3vTwbqEZMD9Hr8WTfEFwhmAL4TkvNq7FDb4UBjVYx5A3",
+    "chainId": 101,
+    "decimals": 4,
+    "name": "Spacebux",
+    "symbol": "SBX",
+    "logoURI": "https://spacebux.info/spacebux.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5wEWXn6r476bR3FptYMicT3Hds9g1C7mSQfQBHnLtfx8",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "SOLVM",
+    "symbol": "SOLVM",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4uEUE7NJCbEpo5SGwyyfx7CgapJtMzDd2QFPR27Qi3W1",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "neoplex",
+    "symbol": "PLEX",
+    "logoURI": "https://shdw-drive.genesysgo.net/G2XApiAHr6Qu4L2FGgGWH9cqmgBaAcAjUfMWLftK89ya/image.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6KxCkinMgQqZjxL6FcwqTkc5dnr8frN8WK6v95qUFzZd",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Zankoku Arcanistz",
+    "symbol": "ZLABZ",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/zlabz_pfp_1653182608945.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4fHNyVDysSVSAjAYi6UGXt3dcsp9sfKN4obe7iKWAh59",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "ChainMyth Floor Index",
+    "symbol": "MYTH",
+    "logoURI": "https://dl.airtable.com/.attachmentThumbnails/56226f8081528434a49be4781d5ac66d/ad61a280",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "GkykgP8JECvKx1Q5yUiRJsVYAQtjbHffDspUkDhWc2vz",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Not Bonk Inu",
+    "symbol": "NBONK",
+    "logoURI": "https://www.simpleimageresizer.com/_uploads/photos/d2a13f86/DBONK_logo_91.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BAEHRPk5PAw7YH8fmjka9DvQgyromgbntQwaZ1AMfXWr",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Owlana",
+    "symbol": "OWL",
+    "logoURI": "https://shdw-drive.genesysgo.net/99ohPAb4VUvqykE9PYPz64ovt713oGCUdecbiv2AGxMa/Owlana logo3.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FLTHudk5B5zag7JmGXqrYrFfey6otevLQA6jm1UHHLEE",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "FLTH",
+    "symbol": "FLTH",
+    "logoURI": "https://www.arweave.net/6cZ-d9BnAsCqxkpzazYmKjLpUN2kE-jYnU3WDV4_lo0?ext=png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "liberty-square-filth"
+    }
+  },
+  {
+    "address": "2RyxewCYr6u5NzUsUh4zVcwsh2tGyW35XkuhYQQQL2BK",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Catsyard",
+    "symbol": "CATSYARD",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeiabhoneqyot2rrz7gskiovzvoapk3kwzpmmslzp4nkq2igblipfxq.ipfs.nftstorage.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "G7ShEqeEmPogtqEWs8CLG2t6dj1vo6geDzokpckEg7Fj",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Bumpp Inu",
+    "symbol": "BUMPP",
+    "logoURI": "https://shdw-drive.genesysgo.net/9CZRKMMiakNKtmWqhUYw6gDiWaaGsHzbDrPYrLXCLwAg/Bumpp_logo.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BnKsoL8xBYLVMhBCgpmTwHSmedXZvxpazSYvNK3whpz4",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "bonkSOL",
+    "symbol": "bonkSOL",
+    "logoURI": "https://shdw-drive.genesysgo.net/35Ab7Znam9FfppDhpNZbfhtGkDPmiLDNgyyXKw8FFv2c/bonksol_no_bg.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5QE9fJZ76YDnfuLT4RSxjZGMMD8huDgyrdevFniQ6Ak6",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "JiZZ BiZZ",
+    "symbol": "$JIZZ",
+    "logoURI": "https://i.ibb.co/c2xdVTb/JiZZ40.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "5KtxfEpgBXkqsGZZytzt3Z7cWhnSWyyWoYNGiGTectna",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "Mehracki",
+    "symbol": "MKI",
+    "logoURI": "https://arweave.net/Z7jj8v8_elNILJZV3SLILGxM7nvAFmZzDuQyyGe4-Js",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "E5ZVeBMazQAYq4UEiSNRLxfMeRds9SKL31yPan7j5GJK",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Voodoo",
+    "symbol": "LDZ",
+    "logoURI": "https://shdw-drive.genesysgo.net/5QGtUB5S2RKa2QyXYcEaXnoDEDN1VswZ5YZkgZ8Zf81S/FB062705-73CE-42C7-9C6F-4C7679DAF01A.jpeg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "WKNDwkcUfcohsqmiS1vYNrSCNDSJFaHWMxRnCmxCxFz",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Weekend Pump",
+    "symbol": "WKND",
+    "logoURI": "https://cbf5w63uf4xsy3gz7z6xiwvauekvlrmcop6iopuocbwcgxhqww5a.arweave.net/EEvbe3QvLyxs2f59dFqgoRVVxYJz_Ic-jhBsI1zwtbo",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8r6HSxAfS2vQA7vtstHXrMKQL2Jmkb9bz7BWzPGm4Z57",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Shremps",
+    "symbol": "SHREMPS",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/shremp_pfp_1661624912458.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4bTrLG3C6JVcZwahuorf7rt2uQ1ccWureqYuy7cJ9AF3",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "lunar",
+    "symbol": "LUNAR",
+    "logoURI": "https://lunarnft.721.com/ticket/lunar-ticket-collection.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "46cCLt1TcdmeMr8xmEshLapyENRQtfDh3npmbN91ohE6",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Vandals",
+    "symbol": "VANDAL",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://cdn.discordapp.com/attachments/975048153843777577/1005302647491928124/unknown.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "6AmNhPanjUR5g1fLv4aGaZKXC44ghfAVH3Ly59XE93s6",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Thugbirdz",
+    "symbol": "BIRDZ",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2FnGvadeW0UuvIgzZUyNKaQ-c8400CDQn1FwNthOJ_KUw%3Fext%3Dpng",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9aBseBwMhAKxUZCwkL8W2XiFatXG7bNpnAK5muCdMoJa",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "CRACK",
+    "symbol": "CRACK",
+    "logoURI": "https://shdw-drive.genesysgo.net/7ztZMNgUfapAtFnmRtU4Yc83sx5uMAsYdPJRrCDgbTJt/CRACK.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "MekkANZkBpzbGeTWsD1cRRuQxZMTFfBJyLrKywGQRss",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "MekkaCoin",
+    "symbol": "MEK",
+    "logoURI": "https://www.arweave.net/THaOPzFZ1YqBIKmewqNbckMo9CUSbmAFdL2LDZbyBco?ext=png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "mekkacoin"
+    }
+  },
+  {
+    "address": "7qLkK693xEWhTtCEvjEpYmwSGPjWwgu8kSXe36aFtLSg",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Generous Robots DAO",
+    "symbol": "GENROB",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreigj3rnxhdmgayys36daxchyf66xb6xrhzpjhnhp2ycbbgmr55nkqu.ipfs.dweb.link/",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8LjiwWfXTZeKtHCWxQU6jJscP35CGvHm9JkyEutpKNxA",
+    "chainId": 101,
+    "decimals": 4,
+    "name": "EXPosed Futures Fund ",
+    "symbol": "XPF",
+    "logoURI": "https://arweave.net/j1GECaE9FZzGhDgFKZDRG2IYozB4K_Ynqz064kfiSVU",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7WVnj7Sna8u7bTarreuLmDye2DBtEcxhgd6hwi3c1vKa",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Bag Gang",
+    "symbol": "BAGGANG",
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://arweave.net/-VfWiWobp8GwL1kOOYmsVvBvcQzaRPnS24VyLlOo7W8",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7A4DPNz5rUZhHrAeRQ9C5yPivmVVnedJfTayYwrxCi7i",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "BREAD",
+    "symbol": "BREAD",
+    "logoURI": "https://shdw-drive.genesysgo.net/FrqjMBaQZmxBFzc6Rzt6iEJLBnZJZ2sU3ty2fpJBToaf/bread.png_small",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Coin98 Dollar",
+    "symbol": "CUSD",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "coin98-dollar"
+    }
+  },
+  {
+    "address": "FEELeKVxHtsHHvu1ARySjETxnJMKbLC6wHCaMD68ipiR",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "FEEL",
+    "symbol": "FEEL",
+    "logoURI": "https://api.feel.market/static/feel.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "FhhWcMv7NeG2xffDFex7xJLaYUzkeSkdcvXm3KpXGWm4",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi SOL Quarterly",
+    "symbol": "DSOLQ",
+    "logoURI": "https://arweave.net/l7GAsphxeIPJkv0YQSuzW1mkdh4ZouGuPWQd-Vnb8vc",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CXL7AAheUM8AnSyBvf9b2TtPeqTTALJVqDDdfwNdKZHt",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "gold FoneFanClub",
+    "symbol": "FFC",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/NEWGOLDFFC.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "J7E62BU8WF8H5btKrZVAwFWjNEBQG9VDTid4y3kkpZSY",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "diamond FFC",
+    "symbol": "dFFC",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/dFFC.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "Cbg2M8RyUWpeTLjzz67GXePDJFavx9rhwTtAWRD3rBac",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Socean",
+    "symbol": "SCN",
+    "logoURI": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAB75JREFUeNrVGlmIHEV0vW/wwlvBqDFG/REFET8ieJDsdtdsLokXguCXIv6pRNPd1bMhJOQjKqgfihqCiEfUmAtUNCCIIHggnkk2KyFujOmuzu5OZntmfK/qPaq3mUlnds2md+BRfVS9o95dPT3H8tfyvBNb87yTEfC6Z6b9kGmEds9njECtJe+exNeJE9wYifD+yAmWKsebM2FOmX/M4CG3erFy5KexK1sGgpYSGj5U/QMX4JzSaoYZi5d45yeuHIyRcTdoAPOpEjIFgZqxkPjst+El3tl6TU/rhJ6y/VgbIMAbKAQwPaZcYJy0QhoZ0xoS4cs4F4NAT5l+vLNR78rzgNEYmUYNKKMBFkY/o3fD++5dfVbptNJ6/NVTcIzd8EHjD3I8JgE0CA2smdSMYb9dW4IfmgebFgjyp2YYfYOFyArE73B0gp+zOKYloSGTfJ0Hngu7/FFGG1YAutZaIID340YY+U5WmDwgTaQ9pYRaHOttrgDn/hoZg7EODAOTwKgZUwDUDkKKQiKQIHUtnBN8Ae+unwJPxQtGRXglEJXAzJa4EmxXrr8G7h9KhFwcC/k07PQm3GETVmVNUb7Qjs0jXxuzsjnFPKux/8DajTD3KY3b8R9Wwl8Lc7cDbIbnK0YWVi/tShiemDjhIiBW54hjx8Dau4YghXsWYCfAm7HrBzBvFcBmeL4Lxp1aaCdYiRsDc96GtbvJzBAalHdYKATaIHMfuXI0dqu9WR6Lc4ET3KZoJ2E8rCMNAJoMIAfAyIPXRgtw/w/AA7w+H9EQ2gUJVQkeBRyRMsLUjNnJFGkgKNfQjZEHEuqQCG5m/y3Whgi2kRB13h0iltVISmbya9LvXdTOaRkf424XJA4s9K6AaLeLNJrCyFrIgTxMWtvI+I6Y1JTjXQgII05qjBTus/mgST6QRAu9WXr9/HWndcKL0O45r0FnB1x1psk5iOmSHzYp+g3vd1edwzg61kqRI69GVTJSsmMD1l9S0tgOFmLypY13Ko5Ar0rmPI5jji4LguPIiOtdxjx31AhKq0BqYpQ0Qs7M10YjZLPybhbGIrY4uQch/B03MOmXN1DmbzIdSzfI0hxCWoz/iD6ihHzLmA45c85PCGGDxtGDrn9XHg8zmHdwJN7ZrOU3igJMG9+saXqO/wrjKizFUXWK/URoh9dJzDgjqR12DpFzdEuEvw56jdkTBVp7hnIG5mBTxSbEjLePluHtOuQaqBNNkzwN3b/RhwujFiNlVUdC/sjxnNTOGmmQ47F2xum+Gbnyh1iEW+H+c4AhyjW4dihxg+VFwqCpwrq9JiJak4b776KKvGZSSdGYme/EFZ3dq0klWJoIb27cJ69TfeGdiSufB2JDxpbJHDKJjRqpfDL9pEgY1CRk92XK9QdgE3zAs2BKZcrRlvCQyV+iHWyYLC1TYBqhwRqh65qe5wTPsZ13QZfMaZINUz6RcRTC5zZjU/g0Gkgp6rTrRxpkKoO8tpPz5xMrPpu2ox9g8CvDKGX9LEzMBSmaZ+kOIdhEIte/h7tAZQs+0si0CVJsWkV5ABMVCLKXoltjgrNnTAsr32kzLVzczTskSJWzj1qhyrjBNZq5ljqpRSJ4pktnn3rEUo6sYBiMoL+IK/4yIH56fk5+ZyFfbKX+3ALdK2iJi8IvnrBgA6eApg4ijuzrShieyC2sggMCJE5tLOeIv5KKnMdzO4XHRIQv6BwjtCYaiQgGQYhnC7O78O+D+fuU7SzZz76nyqFIGGaEewQZawGoVEDA/oS7tqivekuRMFiWqH5vNgL6RJEQSoR3sACKSiMqj+pknvux9znqxgqYXU9JTCcwC/qZbnAgQn3JCDs5a7dFI2zet4oauhxN7XNUDr2W86/OZTw2L7TY9iPC9gbcq0S93qy8MJMu48XAXKNtLuOZXucyvrixorqJBVEWMfcI46aQC5ezCf0PjdVKPhezNC3drhsrPPbHEj7TWLXr2Ztkx2MoOOcQxNFtq8uVNgpAgliali6dGxe1unkfgfBJjVXdZmYamYDgmir4/dAC7xLGka/Lig4f/u1bcVUi5CAJkVqt256dNpV8M/iA8RU6e+SGt8a2+T8M16kGVLs9DsLrGlW3BwAeyTsgaypnejaiVfzHAI+izaoZ3FIfOyHAO6Spj4M4Wia91Zu6aqzwtFxHCvttI+cnkgNAmon5u2H+enOQ4K9JhNwGz/bQjuNh3WpgfgDmbID5e0jLppxxJZsQQ14rI7FTnT+ppDjaF16euHIFINoEiLdgdseGRwtZkU9ilrbmhjvKRFkwtu/MRtgjVnMoR30M3L8P908o4ffjYV8EQmsTh0YMO0v8nHcsGys+/dgBQH22TJVJnggpgM7s5jmaJiVXTnIV+Vnsetd2wdPUPiuws/J93mnRCSlMogAc4WzbO7HJ4h5/A6/P487TRV6mpRdBQsDYHxQi7Ycea/f5LvEnXFeqb4lcR6FtZz+v2aqAhbEhFqvqUn16yyamgxXvXGAyokjU5C6RR0xq9G54r+OdWbqPoRPCtiNfJw2MmUhFQJ+s8R1EoRdLZVKdtKLccFfMh+AmzyA0KUz/UspP0+20gj1D7AQfGy1YgPv38Ft86U5Pittkb04k5OKo4i/C5mrG/Kmm6O9MKEDpNXG8/3j2H0TbvZtVtDo0AAAAAElFTkSuQmCC",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "7wYVXMLk2QRkVnP2LQ7aC1DH1dxZZYC6ruqZg77vMgKe",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi SOL",
+    "symbol": "DSOL",
+    "logoURI": "https://arweave.net/_ro4kd5J9hxgJxNKvVdVFHWDDajSyvI5z78oFKKx4cA",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3wZETGgGbR8mJPPmJtzkTubRBT7N7Ps64D939fZhQoA8",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi USDC Quarterly",
+    "symbol": "DUSDQ",
+    "logoURI": "https://arweave.net/KslMFecTB9i0GaC7Qp1F66ckmFWO5g__NpLsn5jXNdk",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2yTrutPCaoXVQiJqBzQ1YpCqfzhMg2YGXXVXLbXYhPn9",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "silver FoneFanClub",
+    "symbol": "sFFC",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/NEWSILVERFFC.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3aatTnk4xYr7uF6oRZtAbxBJ3b7UUkrSwy8ibmY4u9Zx",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Shellz",
+    "symbol": "SLZ",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/SLZ_TokenMINI.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "8xviKrnGn6kCXUkhmC6gWXwcvYtPux1wYmytQcyeeg3r",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Vendetta",
+    "symbol": "VEND",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/VENDsmol.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9f7TGGHKg28s7Hbqu23rwz1J5ZrC9AB8NJt5LCxuQYtH",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi USDC",
+    "symbol": "DUSDC",
+    "logoURI": "https://arweave.net/qu989duZ5j_VwEfK5XJt1HYFT55FRkpB_mfQWobJYKs",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9MDpyAPEUSWCx5JrPvRRmnwSVdKtNBfXMnnE7L4AE7QV",
+    "chainId": 101,
+    "decimals": 3,
+    "name": "SOGAT",
+    "symbol": "SOGAT",
+    "logoURI": "https://assets.coingecko.com/coins/images/14241/small/logo-200.png?1622341641",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3LuCmiTzFqFEMo9KmcPA3KqQ99QxocTekmNY8u15VPmc",
+    "chainId": 101,
+    "decimals": 1,
+    "name": "aQuarteR",
+    "symbol": "aQutR",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/aQutR.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BhwHzku9f7fQY4QrH77wTXgXsu3xctuBA1b7kZxD5U5u",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi ETH Quarterly",
+    "symbol": "DETHQ",
+    "logoURI": "https://arweave.net/KXxOOMCJZ6zPK8rdMm5ncpqsQ31ZSJ2Au79EoUjv9RA",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "HsoCvGgjgxARFsaSMb3gEEEujHKozmskdLzxw5J2aXNH",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi BTC Quarterly",
+    "symbol": "DBTCQ",
+    "logoURI": "https://arweave.net/A4kImMkqsnC3VFS65M88O5HllLKhqQ6BeZy49GukGEw",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "J6gpkPkUsd8X9xS56NPK6Rw721wAoKVKGpBhhLr21sZ8",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Droid-Fi BTC",
+    "symbol": "DBTC",
+    "logoURI": "https://arweave.net/xsj2ttV3x3KAGuk8bifQszsT6eOob16zTeQiqVc8RWk",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "CWfFYaoyuhgivrVTqTamUVd9jTs3an9QFSHNXqdD7j4R",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Silver Token 1",
+    "symbol": "Stoken1",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/image.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "AGBEnu6rsFrjySvca3WTUqK8oZ1sbDB1bBEAFsyZvMQk",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "copper FoneFanClub",
+    "symbol": "cFFC",
+    "logoURI": "https://shdw-drive.genesysgo.net/6yrUSrh4JqUKwBgvPRDWqxeuVXPCtehGzwZB1wvg79z6/BRONZE FFC2.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "4jWJJTFbxMQbhqc1ZJsZKBqR5GSYceSSLWPec7jtw6fM",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "DONTSELL",
+    "symbol": "DONTSELL",
+    "logoURI": "https://arweave.net/W3nYI2v3bKNRxlVcqHecBQI_QCCRpd4E19C0_XrWT40",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "3VJyo1n5EkBGh6uEcnKA1Bf8EgVnvrK3XjcDZDDXsPLF",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "FLONK",
+    "symbol": "FLONK",
+    "logoURI": "https://arweave.net/clUCQ0EWb9Zpls41P_AKTO_zGOKzdltC7avq78ei1Gc",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2QGkyRQebL9FNvCKaBk8eAtpJQmB9Ljx9kYKFZKTbSKy",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Tomisol",
+    "symbol": "TMS",
+    "logoURI": "https://arweave.net/6ktwqINkdNCsXJG_Z67f6gLW7TXbWpTbngzK-IB2AYY",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "BUTTZ",
+    "symbol": "BUTTZ",
+    "logoURI": "https://shdw-drive.genesysgo.net/6HsnEHNGhcSGxi8LboNXtkTQcCWWHj3tbinJYCSQgX1n/buttztoken.png",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BoyYFagdZy5nZMYLkvT1rVSe1puBwr3DLsMML6SJzLFu",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "onion",
+    "symbol": "ONION",
+    "logoURI": "https://s3.eu-central-2.wasabisys.com/solcial-mainnet/2022/12/19/7420-onion-2mkdebdtp7o.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "BQnJTNbkQLhb6aS8A5wsdqjfARKr1t5czP1bMS7JprHS",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Mantle Network",
+    "symbol": "MNTL",
+    "logoURI": "https://pbs.twimg.com/profile_images/1597775748580134914/bLhE1aY1_400x400.jpg",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "2hH3ey8U94cvcxcaxZP3GDVNPFfgavn3K2mYvkUDV3Sm",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "POO SOLANA",
+    "symbol": "POO",
+    "logoURI": "https://arweave.net/f_gg-drliTqA7xdGrPfe6YyO01Vaz2c2ur3G-ulOv9s",
+    "tags": [
+      "unknown"
+    ]
+  },
+  {
+    "address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Companion",
+    "symbol": "CMPN",
+    "logoURI": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png",
+    "tags": [
+      "unknown"
+    ],
+    "extensions": {
+      "coingeckoId": "companion"
+    }
+  }
+]
