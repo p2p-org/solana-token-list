@@ -1,0 +1,286 @@
+[
+  {
+    "id": "atpay",
+    "symbol": "atpay",
+    "name": "AtPay",
+    "platforms": {
+      "solana": "CWBzupvyXN1Cf5rsBEHbzfTFvreLfUaJ77BMNLVJ739y"
+    },
+    "logoURI": "https://www.arweave.net/8QF11a_-KYYi__bFUuRWmLqWwk7pLTo9YKwJ1WhY0Lw?ext=png",
+    "decimals": 9
+  },
+  {
+    "id": "avenue-hamilton-token",
+    "symbol": "aht",
+    "name": "Avenue Hamilton Token",
+    "platforms": {
+      "solana": "AHT1yynTv45s3P3KrRfQCVMHckdHeMVA3fteEg34xt9y"
+    },
+    "logoURI": "https://arweave.net/7FbZmTSKMsSqtlfe8yH1n3QgdBc3RBBt0B6dsdprVBs",
+    "decimals": 9
+  },
+  {
+    "id": "bracelet",
+    "symbol": "brc",
+    "name": "Bracelet",
+    "platforms": {
+      "solana": "E69gzpKjxMF9p7u4aEpsbuHevJK9nzxXFdUDzKE5wK6z"
+    },
+    "logoURI": "https://bracelet.network/bracelet.png",
+    "decimals": 5
+  },
+  {
+    "id": "circlepod",
+    "symbol": "cpx",
+    "name": "Circlepod",
+    "platforms": {
+      "solana": "CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qA"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq/logo.png",
+    "decimals": 6
+  },
+  {
+    "id": "corni",
+    "symbol": "corni",
+    "name": "Corni",
+    "platforms": {
+      "solana": "FYNmEg12xqyuNrRn8A1cqkEapcUCh3M7ZARUN1yj1bEs"
+    },
+    "logoURI": "https://www.arweave.net/3wy5KOCchF28ECwiKdNsXAvzP0n_zjPV2RMZfaOdIxc?ext=png",
+    "decimals": 6
+  },
+  {
+    "id": "curate",
+    "symbol": "xcur",
+    "name": "Curate",
+    "platforms": {
+      "ethereum": "0xe1c7e30c42c24582888c758984f6e382096786bd",
+      "solana": "35r2jMGKytAJ7FyKfKRHPanT8kpjg3emPy7WG6GANCNB",
+      "binance-smart-chain": "0xd52669712f253cd6b2fe8a8638f66ed726cb770c"
+    },
+    "logoURI": "https://www.crypto-rating.com/img/icos/curate.png",
+    "decimals": 8
+  },
+  {
+    "id": "deapcoin",
+    "symbol": "dep",
+    "name": "DEAPCOIN",
+    "platforms": {
+      "ethereum": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+      "avalanche": "0xd4d026322c88c2d49942a75dff920fcfbc5614c1",
+      "solana": "BgwQjVNMWvt2d8CN51CsbniwRWyZ9H9HfHkEsvikeVuZ",
+      "binance-smart-chain": "0xcaf5191fc480f43e4df80106c7695eca56e48b18"
+    },
+    "logoURI": "https://img.api.cryptorank.io/coins/deapcoin1590061496905.png",
+    "decimals": 8
+  },
+  {
+    "id": "duck-punkz-universe-floor-index",
+    "symbol": "dpunkz",
+    "name": "Duck Punkz Universe Floor Index",
+    "platforms": {
+      "solana": "McpgFn2CxFYFq6JLiBxeC6viNfebLsfsf9Sv5wcwKvL"
+    },
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21695.png",
+    "decimals": 2
+  },
+  {
+    "id": "efk-token",
+    "symbol": "efk",
+    "name": "EFK Token",
+    "platforms": {
+      "solana": "efk1hwJ3QNV9dc5qJaLyaw9fhrRdjzDTsxbtWXBh1Xu"
+    },
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22306.png",
+    "decimals": 9
+  },
+  {
+    "id": "fluid-usdc",
+    "symbol": "fusdc",
+    "name": "Fluid USDC",
+    "platforms": {
+      "ethereum": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
+      "solana": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/28471/small/fUSDC-200x200.png?1671002126",
+    "decimals": 6
+  },
+  {
+    "id": "fluid-usdt",
+    "symbol": "fusdt",
+    "name": "Fluid USDT",
+    "platforms": {
+      "ethereum": "0xadc234a4e90e2045f353f5d4fcde66144d23b458",
+      "solana": "D5zHHS5tkf9zfGBRPQbDKpUiRAMVK8VvxGwTHP6tP1B8"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/28472/small/fUSDT-200x200.png?1671002181",
+    "decimals": 6
+  },
+  {
+    "id": "galaxy-war",
+    "symbol": "gwt",
+    "name": "Galaxy War",
+    "platforms": {
+      "binance-smart-chain": "0x552594612f935441c01c6854edf111f343c1ca07",
+      "solana": "GWTipxSJVPmmW2wCjBdkbnEJbCRCyrhL2x9zuHRPPTj1",
+      "okex-chain": "0x65511ce6980418db9db829b669e7dfd653dae420"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/22166/small/e2x7gMJ4_400x400.jpg?1641166277",
+    "decimals": 6
+  },
+  {
+    "id": "gton-capital",
+    "symbol": "gton",
+    "name": "GTON CAPITAL",
+    "platforms": {
+      "ethereum": "0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d",
+      "solana": "nVZnRKdr3pmcgnJvYDE8iafgiMiBqxiffQMcyv5ETdA",
+      "xdai": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+      "avalanche": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+      "huobi-token": "0x922d641a426dcffaef11680e5358f34d97d112e1",
+      "polygon-pos": "0xf480f38c366daac4305dc484b2ad7a496ff00cea",
+      "binance-smart-chain": "0x64d5baf5ac030e2b7c435add967f787ae94d0205",
+      "fantom": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/15728/small/GC_logo_200x200.png?1642669327",
+    "decimals": 8
+  },
+  {
+    "id": "honeyland-honey",
+    "symbol": "hxd",
+    "name": "Honeyland",
+    "platforms": {
+      "solana": "3dgCCb15HMQSA4Pn3Tfii5vRk7aRqTH95LJjxzsG2Mug"
+    },
+    "logoURI": "https://arweave.net/NHZyHFvooDi_LKgs1BaHVPMsuRSOoHpE-J26fp1uHGQ",
+    "decimals": 9
+  },
+  {
+    "id": "labs-protocol",
+    "symbol": "labs",
+    "name": "LABS Protocol",
+    "platforms": {
+      "solana": "LABSfApdYpC5Ek1tQiCFAoQP5K8CvADe2GgdYrA2QHh"
+    },
+    "logoURI": "https://www.arweave.net/Xon9jzW6Pv4Q0p9O4oP4gDmX3gCBc4nkyt_dSmsHbME?ext=jpg",
+    "decimals": 9
+  },
+  {
+    "id": "legends-of-aria",
+    "symbol": "aria",
+    "name": "Legends Of Aria",
+    "platforms": {
+      "solana": "F4q5mMxk9RA2a9dwfa2FgJjhvuqbk8SC9jEpnDVz5TFy"
+    },
+    "logoURI": "https://arweave.net/lxZMlEVe_gp86q1dUwQGCY66gDQRMBQmBf-Gi3xnYIE",
+    "decimals": 6
+  },
+  {
+    "id": "octo-gaming",
+    "symbol": "otk",
+    "name": "Octokn",
+    "platforms": {
+      "solana": "octo82drBEdm8CSDaEKBymVn86TBtgmPnDdmE64PTqJ"
+    },
+    "logoURI": "https://storage.googleapis.com/the-octos-nfts/icon-otk-big-filled.png",
+    "decimals": 9
+  },
+  {
+    "id": "okami-lana",
+    "symbol": "okana",
+    "name": "Okami Lana",
+    "platforms": {
+      "solana": "okaxuoDnpewHyCoYykiNX4pmJwKodhWxVxb2tCuGxMy"
+    },
+    "logoURI": "https://arweave.net/fvXKsqIyghy-L98Po4b8pL7LYDn9vwl1FlhyBf43GJI",
+    "decimals": 5
+  },
+  {
+    "id": "sola-x",
+    "symbol": "sax",
+    "name": "SOLA-X",
+    "platforms": {
+      "solana": "SAX2cChnuhnKfUDERWVHyd8CoeDNR4NjoxwjuW8uiqa"
+    },
+    "logoURI": "https://www.arweave.net/vvjFLxWMUzfxES3jS-VJ6TbixKTQv7YVEo8PX89E4EA?ext=png",
+    "decimals": 9
+  },
+  {
+    "id": "solge",
+    "symbol": "solge",
+    "name": "Solge",
+    "platforms": {
+      "solana": "FM8ai6JTyf6HWAgPbnsdonqCeWfjomPMFfnBgPSf23W2"
+    },
+    "logoURI": "https://i.ibb.co/f8cWt9t/solge.png",
+    "decimals": 5
+  },
+  {
+    "id": "spacefalcon",
+    "symbol": "fcon",
+    "name": "SpaceFalcon",
+    "platforms": {
+      "solana": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/21760/small/transparent-200x200.png?1639990005",
+    "decimals": 4
+  },
+  {
+    "id": "staika",
+    "symbol": "stik",
+    "name": "Staika",
+    "platforms": {
+      "solana": "8BMzMi2XxZn9afRaMx5Z6fauk9foHXqV5cLTCYWRcVje"
+    },
+    "logoURI": "https://shdw-drive.genesysgo.net/2QG3zdFaMzjwS1GBqFh9ohgFVVxSWRUjFXq8SAT3q2n2/image.png",
+    "decimals": 9
+  },
+  {
+    "id": "the-4th-pillar",
+    "symbol": "four",
+    "name": "4thpillar technologies",
+    "platforms": {
+      "ethereum": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+      "polygon-pos": "0x48cbc913de09317df2365e6827df50da083701d5",
+      "solana": "DAtU322C23YpoZyWBm8szk12QyqHa9rUQe1EYXzbm1JE",
+      "binance-smart-chain": "0xd882739fca9cbae00f3821c4c65189e2d7e26147"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/3434/small/four-ticker-2021-256x256.png?1617702287",
+    "decimals": 9
+  },
+  {
+    "id": "torg",
+    "symbol": "torg",
+    "name": "TORG",
+    "platforms": {
+      "ethereum": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
+      "binance-smart-chain": "0xcea59dce6a6d73a24e6d6944cfabc330814c098a",
+      "xdai": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
+      "polygon-pos": "0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8",
+      "solana": "AbnTggpTujbdAiJtyhH9WtK2CqXk44W7GipyJXkopBDd"
+    },
+    "logoURI": "https://assets.coingecko.com/coins/images/17596/small/TORG_Logo_200x200.png?1628586056",
+    "decimals": 8
+  },
+  {
+    "id": "widi-soul",
+    "symbol": "wso",
+    "name": "Widi Soul",
+    "platforms": {
+      "binance-smart-chain": "0xc19fe21b4ef356f2f65894392dde4252aa083605",
+      "solana": "4TyXexYsJqy9n1vVFVkHn1CUxabP2cht3BSE74PSG1pq"
+    },
+    "logoURI": "https://nft.static.widiland.com/wso-token.png",
+    "decimals": 9
+  },
+  {
+    "id": "your-open-metaverse",
+    "symbol": "yom",
+    "name": "YOM",
+    "platforms": {
+      "solana": "yomFPUqz1wJwYSfD5tZJUtS3bNb8xs8mx9XzBv8RL39"
+    },
+    "logoURI": "https://yom.mypinata.cloud/ipfs/QmQ9qE5XWMEyzQGWJFcZjwjigHBzSWDaaf2xFhCFqdvUcx",
+    "decimals": 9
+  }
+]
