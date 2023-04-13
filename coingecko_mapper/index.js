@@ -24,9 +24,17 @@ const Promise = require("bluebird");
 
 		// if token found, update coingeckoId
 		if (token) {
-			if (!myTokens[i].extensions || token.id == myTokens[i].extensions.coingeckoId) {
+			// assert extensions existence
+			if (!myTokens[i].extensions) {
+				myTokens[i].extensions = {};
+			}
+
+			// ignore id if it has already been set
+			if (token.id == myTokens[i].extensions.coingeckoId) {
 				continue;
 			} 
+
+			// update coingeckoId
 			myTokens[i].extensions.coingeckoId = token.id
 			console.log("========== Found new coingeckoId " + token.id);
 		}
