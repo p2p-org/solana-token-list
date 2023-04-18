@@ -15,7 +15,7 @@ const Promise = require("bluebird");
 	let myTokens = list.tokens
 
 	// loops throw myTokens and update/add coingecko id
-	for (var i = 0; i < myTokens.length; i++) {
+	for (var i = 13300; i < myTokens.length; i++) {
 		// log progress
 		console.log("===== Processing " + (i + 1) + " of " + myTokens.length);
 
