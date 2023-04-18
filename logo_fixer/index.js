@@ -39,24 +39,21 @@ async function fixLogo(token) {
 		}
 
 		// if logo is png, download and store it
-		if (path.extname(token.logoURI.toLowerCase()) === ".png") {
-			const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
-			const downloadedPNGFile = downloadFolder + "/logo.png";
+		const downloadFolder = `${__dirname}/../assets/mainnet` + "/" + token.address;
+		const downloadedPNGFile = downloadFolder + "/logo.png";
 
-			// download if not exists
-			const isFileExists = await existsAsync(downloadedPNGFile);
-			if (!isFileExists) {
-				console.log("PNG file not exists, downloading...");
-				ensureDirectoryExistence(downloadedPNGFile);
-				fs.writeFileSync(downloadedPNGFile, await download(token.logoURI));
-			}
-
-			// return updated token
-			let updatedURI = newEndpoint + "/main/assets/mainnet/" + token.address + "/logo.png"
-			token.logoURI = updatedURI;
-			return updatedToken
+		// download if not exists
+		const isFileExists = await existsAsync(downloadedPNGFile);
+		if (!isFileExists) {
+			console.log("PNG file not exists, downloading...");
+			ensureDirectoryExistence(downloadedPNGFile);
+			fs.writeFileSync(downloadedPNGFile, await download(token.logoURI));
 		}
-		return updatedToken;
+
+		// return updated token
+		let updatedURI = newEndpoint + "/main/assets/mainnet/" + token.address + "/logo.png"
+		token.logoURI = updatedURI;
+		return updatedToken
 	}
 	
 	console.log("===== Processing logo with url " + token.logoURI);
@@ -101,7 +98,7 @@ async function fixLogo(token) {
 	let sampleDir = '../src/tokens/solana.tokenlist.json';
 	let sample = require(sampleDir);
     let tokens = sample.tokens;
-    for (var i = 13896; i < tokens.length; i++) {
+    for (var i = 13897; i < tokens.length; i++) {
     	console.log("===== Processing " + (i + 1) + " of " + tokens.length + " (" + ((i + 1) * 100 /tokens.length) + "%)");
     	try {
     		let updatedJSON = await fixLogo(tokens[i]);
