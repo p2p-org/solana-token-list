@@ -20,6 +20,11 @@ on:
   schedule:
     - cron: '33 9 * * 4'
 
+permissions:
+  actions: read # SARIF upload
+  contents: read
+  security-events: write # SARIF upload
+
 jobs:
   analyze:
     name: Analyze
